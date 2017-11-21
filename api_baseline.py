@@ -16,17 +16,6 @@ if __name__ == '__main__':
     locations = []
     stop_words = set(stopwords.words("english"))
     for message, location in obj.items():
-        # Clean up the message
-        message = message.strip().lower()
-        message = re.sub(r"[^A_Za-z0-9\s]", "", message)
-        message = re.sub(r"\s[0-9]\s", " ", message)
-        message = message.split()
-        # Remove stop words
-        message2 = []
-        for word in message:
-            if word not in stop_words:
-                message2.append(word)
-        message = message2
         messages.append(message)
 
         # Clean up the location
@@ -48,8 +37,23 @@ if __name__ == '__main__':
     # Get "average API baseline"
     total_counter = 0
     correct_counter = 0
+    location_prob_dict = {}
     for i, message in enumerate(messages):
         total_counter = total_counter + 1
+
+        # Clean up the message
+        full_message = message
+        message = message.strip().lower()
+        message = re.sub(r"[^A_Za-z0-9\s]", "", message)
+        message = re.sub(r"\s[0-9]\s", " ", message)
+        message = message.split()
+        # Remove stop words
+        message2 = []
+        for word in message:
+            if word not in stop_words:
+                message2.append(word)
+        message = message2
+
         # Query the API
         uk_list, us_list, sg_list = [], [], []
         for word in message:
@@ -82,6 +86,8 @@ if __name__ == '__main__':
         us_prob = float(sum(us_list))/len(message)
         sg_prob = float(sum(sg_list))/len(message)
         labeled_probs = {uk_prob:"uk", us_prob:"us", sg_prob:"sg"}
+        labeled_probs_inv = {"uk":uk_prob, "us":us_prob, "sg":sg_prob}
+        location_prob_dict[full_message] = labeled_probs_inv
         max_prob = max([uk_prob, us_prob, sg_prob])
         guess = labeled_probs[max_prob]
         truth = locations[i]
@@ -94,3 +100,6 @@ if __name__ == '__main__':
 
     accuracy = float(correct_counter)/float(total_counter)
     print "Total accuracy for API baseline: {}".format(accuracy)
+
+    with open('api_baseline_results.json', 'w') as fp:
+        json.dump(location_prob_dict, fp)
