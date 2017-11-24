@@ -22,8 +22,8 @@ def test(vectorizer, training_data, training_labels, testing_data, testing_label
 
     # Set up the Naive Bayes classifier
     mnb = MultinomialNB(alpha=1.3)
-    loc_pred_dev = mnb.fit(train_vectors, training_labels)
-    prediction_dev = mnb.predict(test_vectors)
+    mnb.fit(train_vectors, training_labels)
+    prediction = mnb.predict(test_vectors)
 
     # How good was it?
     accuracy = mnb.score(test_vectors, testing_labels)
