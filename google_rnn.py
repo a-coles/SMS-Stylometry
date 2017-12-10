@@ -12,7 +12,7 @@ from keras.utils import np_utils
 
 if __name__ == '__main__':
     # Open up pre-processed location corpus
-    with open('english_sms_corpus.json', 'r') as fp:
+    with open('resources/english_sms_corpus.json', 'r') as fp:
         obj = json.load(fp)
 
     # Convert the loaded dictionary into pertinent lists
@@ -74,7 +74,7 @@ if __name__ == '__main__':
     # Get "location" embeddings
     #word_to_index = toker.word_index
 
-    with open('api_words.txt', 'r') as fp:
+    with open('resources/api_words.txt', 'r') as fp:
         vocab_weights = {}
         lines = fp.readlines()[2:]
         for line in lines:

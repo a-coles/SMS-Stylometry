@@ -30,7 +30,7 @@ if __name__ == '__main__':
     stop_words = set(stopwords.words("english"))
 
     # Open up pre-processed location corpus and format
-    with open('english_sms_corpus.json', 'r') as fp:
+    with open('resources/english_sms_corpus.json', 'r') as fp:
         message_locations = json.load(fp)
     for message, location in message_locations.items():
         if location.lower() == "singapore":
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     if not os.path.exists('api_messages.txt'):
         # Get the average probability of the sentence per location
         # and save it down
-        with open ('api_words.txt', 'r') as inf, open('api_messages.txt', 'w') as outf:
+        with open ('resources/api_words.txt', 'r') as inf, open('resources/api_messages.txt', 'w') as outf:
             api_words = inf.readlines()
             for message, location in message_locations.items():
                 full_message = message
@@ -89,7 +89,7 @@ if __name__ == '__main__':
 
 
     # Open up messages-probabilities file and format
-    with open('api_messages.txt', 'r') as fp:
+    with open('resources/api_messages.txt', 'r') as fp:
         message_probs = fp.readlines()
     message_prob_list = []
     for i, line in enumerate(message_probs):

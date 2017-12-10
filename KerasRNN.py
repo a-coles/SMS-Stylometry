@@ -57,7 +57,7 @@ if __name__ == '__main__':
     # Get "location" embeddings
     #word_to_index = toker.word_index
 
-    with open('api_words.txt', 'r') as fp:
+    with open('resources/api_words.txt', 'r') as fp:
         vocab_weights = {}
         lines = fp.readlines()[2:]
         for line in lines:

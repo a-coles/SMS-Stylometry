@@ -2,7 +2,7 @@
 #TODO: I'm using Python 3.5 so some of the things might be different :(
 
 import numpy as np
-from importData import importAndProcess
+from resources.importData import importAndProcess
 from nltk.corpus import stopwords
 from sklearn.metrics import accuracy_score
 

@@ -10,7 +10,7 @@ def importAndProcess():
 
 
     # Open up pre-processed location corpus
-    with open('english_sms_corpus.json', 'r') as fp:
+    with open('resources/english_sms_corpus.json', 'r') as fp:
         obj = json.load(fp)
 
     # Convert the loaded dictionary into pertinent lists
