@@ -137,7 +137,7 @@ model.add(LSTM(100))
 #Dropout
 model.add(Dropout(0.2))
 model.add(Dense(3, activation='softmax'))
-model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy'])
+model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 print(model.summary())
 model.fit(X_train, y_train, nb_epoch=10, batch_size=64,verbose=1, validation_split=0.1, shuffle =True)
 # Final evaluation of the model
