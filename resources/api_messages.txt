@@ -8278,8 +8278,7 @@ ll msg u to kp u informed lor...||0.173333333333||0.206666666667||0.255
 Suuuuure||0.0||0.0||0.0
 Ya! Me and miwa are meeting at Öuträm mrt at 2 to get her perfume or whatever nice thing we see.. You join us?||0.224375||0.206875||0.2575
 ok thanks||0.275||0.325||0.525
-Ah, well that confuses things, doesn‘t it?
-||0.208333333333||0.236666666667||0.171666666667
+Ah, well that confuses things, doesn‘t it?||0.208333333333||0.236666666667||0.171666666667
 hello joe.||0.22||0.2||0.4
 No more. It's about three yrs old.||0.143333333333||0.131666666667||0.105
 Yup, i ordered it last night l.||0.48||0.542||0.454
@@ -11141,7 +11140,8 @@ Aiyo.  Sayang you. Baobei so nice drop by today.:*:* Haha. My mamavery happy wor
 I was in a weird underground restaurant, now I'm at Jeff's lol||0.258571428571||0.262857142857||0.147142857143
 Hee.. Chou baobei ur wifely sends u a reminder that u're supermissed! Mugmug da ding ding:-*  must show me ur happy face!||0.197894736842||0.256842105263||0.258947368421
 Borrow the one at home lah
-Also, camera i think no choice it'll interfere with  <DECIMAL> ghz||0.313333333333||0.353333333333||0.26
+
+Also, camera i think no choice it'll interfere with  <DECIMAL> ghz||0.313333333333||0.353333333333||0.26
 Oh... oh jeez... that is bad. If it makes you feel better, mine isn'tbecause I was still using it when I was like  <#> ... ugh||0.201666666667||0.29||0.205555555556
 rogar||0.01||0.05||0.0
 Lololololl sucks||0.195||0.5||0.245

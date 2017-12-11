@@ -36,11 +36,9 @@ def preprocess(messages):
     return newMsg
 
 
-if __name__ == '__main__':
-    messages_train, loc_train, messages_dev, loc_dev, messages_test, loc_test = importAndProcess()
-
+def createKerasTokens(messages_train,messages_dev,messages_test):
     newMsg = preprocess(messages_train)
-    toker = Tokenizer(filters = '')
+    toker = Tokenizer(filters='')
     toker.fit_on_texts(newMsg)
     X_train = toker.texts_to_sequences(newMsg)
     print(len(toker.word_counts))
@@ -53,6 +51,16 @@ if __name__ == '__main__':
     newMsg = preprocess(messages_test)
     X_test = toker.texts_to_sequences(newMsg)
     X_test = np.asarray(X_test)
+
+    wordCount = len(toker.word_counts) + 1
+    return X_train,X_dev,X_test,wordCount
+
+
+if __name__ == '__main__':
+    messages_train, loc_train, messages_dev, loc_dev, messages_test, loc_test = importAndProcess()
+
+    X_train,X_dev,X_test,wordCount = createKerasTokens(messages_train,messages_dev,messages_test)
+
 
     y_train = loc_train
     y_train[loc_train == 'sg'] = 0
@@ -87,12 +95,13 @@ if __name__ == '__main__':
     # create the model
     embedding_vector_length = 32
     model = Sequential()
-    model.add(Embedding(len(toker.word_counts)+1, embedding_vector_length, input_length=max_length))
+    model.add(Embedding(wordCount, embedding_vector_length, input_length=max_length))
     model.add(LSTM(100))
     model.add(Dense(3, activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
-    print model.summary()
-    model.fit(X_train, y_train, nb_epoch=10, batch_size=64,verbose=1, validation_data=(X_dev,y_dev), shuffle =True)
+    print (model.summary())
+    model.fit(X_train, y_train, nb_epoch=4, batch_size=64,verbose=1, validation_data=(X_dev,y_dev), shuffle =True)
     # Final evaluation of the model
     scores = model.evaluate(X_test, y_test, verbose=1)
-    print "Accuracy: %.2f%%" % (scores[1]*100)
+    print ("Accuracy: %.2f%%" % (scores[1]*100))
+    model.save('model.h5')

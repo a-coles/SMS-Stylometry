@@ -1,0 +1,4652 @@
+23615
+
+  32/3810 [..............................] - ETA: 5s
+  64/3810 [..............................] - ETA: 6s
+ 128/3810 [>.............................] - ETA: 5s
+ 160/3810 [>.............................] - ETA: 6s
+ 224/3810 [>.............................] - ETA: 5s
+ 256/3810 [=>............................] - ETA: 5s
+ 288/3810 [=>............................] - ETA: 5s
+ 320/3810 [=>............................] - ETA: 5s
+ 352/3810 [=>............................] - ETA: 5s
+ 384/3810 [==>...........................] - ETA: 5s
+ 416/3810 [==>...........................] - ETA: 5s
+ 480/3810 [==>...........................] - ETA: 5s
+ 512/3810 [===>..........................] - ETA: 5s
+ 576/3810 [===>..........................] - ETA: 5s
+ 640/3810 [====>.........................] - ETA: 5s
+ 672/3810 [====>.........................] - ETA: 5s
+ 704/3810 [====>.........................] - ETA: 5s
+ 768/3810 [=====>........................] - ETA: 5s
+ 800/3810 [=====>........................] - ETA: 4s
+ 864/3810 [=====>........................] - ETA: 4s
+ 896/3810 [======>.......................] - ETA: 4s
+ 960/3810 [======>.......................] - ETA: 4s
+1024/3810 [=======>......................] - ETA: 4s
+1056/3810 [=======>......................] - ETA: 4s
+1088/3810 [=======>......................] - ETA: 4s
+1120/3810 [=======>......................] - ETA: 4s
+1152/3810 [========>.....................] - ETA: 4s
+1184/3810 [========>.....................] - ETA: 4s
+1216/3810 [========>.....................] - ETA: 4s
+1248/3810 [========>.....................] - ETA: 4s
+1280/3810 [=========>....................] - ETA: 4s
+1312/3810 [=========>....................] - ETA: 4s
+1376/3810 [=========>....................] - ETA: 4s
+1408/3810 [==========>...................] - ETA: 4s
+1440/3810 [==========>...................] - ETA: 4s
+1472/3810 [==========>...................] - ETA: 4s
+1504/3810 [==========>...................] - ETA: 4s
+1536/3810 [===========>..................] - ETA: 3s
+1568/3810 [===========>..................] - ETA: 3s
+1600/3810 [===========>..................] - ETA: 4s
+1632/3810 [===========>..................] - ETA: 4s
+1664/3810 [============>.................] - ETA: 4s
+1696/3810 [============>.................] - ETA: 4s
+1728/3810 [============>.................] - ETA: 4s
+1760/3810 [============>.................] - ETA: 3s
+1792/3810 [=============>................] - ETA: 3s
+1824/3810 [=============>................] - ETA: 3s
+1856/3810 [=============>................] - ETA: 3s
+1888/3810 [=============>................] - ETA: 3s
+1920/3810 [==============>...............] - ETA: 3s
+1952/3810 [==============>...............] - ETA: 3s
+1984/3810 [==============>...............] - ETA: 3s
+2016/3810 [==============>...............] - ETA: 3s
+2048/3810 [===============>..............] - ETA: 3s
+2080/3810 [===============>..............] - ETA: 3s
+2112/3810 [===============>..............] - ETA: 3s
+2144/3810 [===============>..............] - ETA: 3s
+2176/3810 [================>.............] - ETA: 3s
+2208/3810 [================>.............] - ETA: 3s
+2272/3810 [================>.............] - ETA: 3s
+2336/3810 [=================>............] - ETA: 2s
+2368/3810 [=================>............] - ETA: 2s
+2400/3810 [=================>............] - ETA: 2s
+2432/3810 [==================>...........] - ETA: 2s
+2464/3810 [==================>...........] - ETA: 2s
+2528/3810 [==================>...........] - ETA: 2s
+2592/3810 [===================>..........] - ETA: 2s
+2624/3810 [===================>..........] - ETA: 2s
+2688/3810 [====================>.........] - ETA: 2s
+2720/3810 [====================>.........] - ETA: 2s
+2784/3810 [====================>.........] - ETA: 1s
+2848/3810 [=====================>........] - ETA: 1s
+2912/3810 [=====================>........] - ETA: 1s
+2976/3810 [======================>.......] - ETA: 1s
+3040/3810 [======================>.......] - ETA: 1s
+3104/3810 [=======================>......] - ETA: 1s
+3136/3810 [=======================>......] - ETA: 1s
+3200/3810 [========================>.....] - ETA: 1s
+3232/3810 [========================>.....] - ETA: 1s
+3296/3810 [========================>.....] - ETA: 0s
+3328/3810 [=========================>....] - ETA: 0s
+3392/3810 [=========================>....] - ETA: 0s
+3424/3810 [=========================>....] - ETA: 0s
+3488/3810 [==========================>...] - ETA: 0s
+3552/3810 [==========================>...] - ETA: 0s
+3616/3810 [===========================>..] - ETA: 0s
+3680/3810 [===========================>..] - ETA: 0s
+3744/3810 [============================>.] - ETA: 0s
+3808/3810 [============================>.] - ETA: 0s
+3810/3810 [==============================] - 7s 2ms/step
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.90738267  0.08314942  0.0094679 ]
+API Probs: ['0.4175', '0.5275', '0.41']
+Message: So do you have samus shoulders yet
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99930799e-01   5.89673400e-05   1.02059475e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: -.- fine.. are you busy today?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99328554e-01   5.89730102e-04   8.16867396e-05]
+API Probs: ['0.224864864865', '0.203783783784', '0.167837837838']
+Message: Hi Ricky, I need to check with you about the outstanding issues.  1)soil for the backyard, 2) mirror installation, 3) paint touch up and4) plastic edge for the sliding glass door, 5) bathtub sanding,  6)glass silicone sealup of bottom edge of big window.  Finally, can youtell me about my neighbor's paint progress?  Thanks.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21913527  0.77535099  0.00551374]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Safra la
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.33922753  0.2680411   0.39273137]
+API Probs: ['0.608', '0.586', '0.466']
+Message: m goin to airport to send my dad off...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97479081e-01   2.32171640e-03   1.99218310e-04]
+API Probs: ['0.454285714286', '0.485714285714', '0.351428571429']
+Message: HAPPY BIRTHDAY I'll call you later old lady
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41152531  0.55254889  0.03592581]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hmmm. When are you free?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.452645    0.52046245  0.02689253]
+API Probs: ['0.456666666667', '0.470833333333', '0.394166666667']
+Message: Im in senai airport waitin for my dads russian crew,then bring then for dinner,hope can make it back for my baby
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83292854  0.1499124   0.01715906]
+API Probs: ['0.23', '0.256666666667', '0.1']
+Message: Yeah call me!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.69701767  0.29793069  0.00505165]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Brynden Blackfish!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21854618  0.75931871  0.02213513]
+API Probs: ['0.0', '0.0', '0.0']
+Message: But he's out?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.84972692  0.14669748  0.00357561]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yessssss?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.22595878  0.77084792  0.00319329]
+API Probs: ['0.0', '0.005', '0.0']
+Message: Okie can cya
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95909131  0.03894811  0.00196061]
+API Probs: ['0.205454545455', '0.25', '0.196363636364']
+Message: Oh okay.. u just don't wanna crash on you again, so I'm crazy sorry if I do
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83077556  0.15563245  0.01359201]
+API Probs: ['0.368', '0.57', '0.352']
+Message: Were gonna go get some tacos
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.28887218  0.69619286  0.01493496]
+API Probs: ['0.13', '0.151428571429', '0.155714285714']
+Message: Haha or just get me soya bean jiu okay. Heh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96231854e-01   3.48014152e-03   2.87992792e-04]
+API Probs: ['0.235714285714', '0.294285714286', '0.304285714286']
+Message: Poor girl can't go one day lmao
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98494893  0.01391874  0.0011323 ]
+API Probs: ['0.261666666667', '0.383333333333', '0.246666666667']
+Message: It's ok, at least armand's still around
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.13405475  0.85135788  0.01458737]
+API Probs: ['0.393333333333', '0.5', '0.71']
+Message: 1 more stop dear
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.16545981  0.82462382  0.00991639]
+API Probs: ['0.282', '0.233', '0.291']
+Message: Ok then when i reach i go collect ticket first. Now i nothing to do watch tv.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96039045  0.03782818  0.00178136]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ouch!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.43021026  0.56381774  0.00597196]
+API Probs: ['0.62', '0.725', '0.575']
+Message: till one
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.03695089  0.95444483  0.0086043 ]
+API Probs: ['0.186666666667', '0.286666666667', '0.133333333333']
+Message: Never tell me..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9381482   0.05550238  0.00634942]
+API Probs: ['0.25', '0.241666666667', '0.211666666667']
+Message: I.ll hand her my phone to chat wit u
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99569774e-01   4.01012396e-04   2.92392688e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Whhhhaat? Really?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46218774  0.53148264  0.00632963]
+API Probs: ['0.23', '0.25', '0.14']
+Message: Yeah i'm going :D
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.19221568  0.79729044  0.01049386]
+API Probs: ['0.255', '0.325', '0.25']
+Message: Heh thanks gabby :D
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96306658e-01   3.48530011e-03   2.08061407e-04]
+API Probs: ['0.21', '0.25', '0.115']
+Message: Soooo we're chillin' outside
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.42594925  0.56059432  0.01345646]
+API Probs: ['0.387777777778', '0.351111111111', '0.263333333333']
+Message: t buy anything on this trip.. u want to play mahjong next monday?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.93269742e-01   6.24616211e-03   4.84104967e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: … and don‘t worry we‘ll have finished by march … ish!
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.05474524  0.94227123  0.00298356]
+API Probs: ['0.2775', '0.315', '0.335']
+Message: I am playing table tennis
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96669769e-01   2.84037855e-03   4.89849655e-04]
+API Probs: ['0.3', '0.308', '0.3']
+Message: Yo, you at jp and hungry like a mofo?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.91292059e-01   8.31620861e-03   3.91725131e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ugh MEN!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21171226  0.78499544  0.00329229]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ya  <#>
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99115646e-01   8.02867406e-04   8.15124658e-05]
+API Probs: ['0.238888888889', '0.354444444444', '0.27']
+Message: Does she usually take fifteen fucking minutes to respond to a yes or no question
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99576271e-01   2.90893106e-04   1.32848087e-04]
+API Probs: ['0.216666666667', '0.2', '0.208333333333']
+Message: Viewing cancelled.   The unit is already sold.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.89726126e-01   9.84348450e-03   4.30365966e-04]
+API Probs: ['0.195', '0.208333333333', '0.358333333333']
+Message: At cafe w table and book :-)
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.29119906  0.70198065  0.00682028]
+API Probs: ['0.172222222222', '0.205555555556', '0.256666666667']
+Message: s mit. Wad time gd for you? Leon gng later by himself.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9842118   0.01165688  0.00413133]
+API Probs: ['0.230769230769', '0.297692307692', '0.2']
+Message: Haven't heard anything and he's not answering my texts so I'm guessing he flaked. That said the jb is fantastic
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99587357e-01   3.74302064e-04   3.83484512e-05]
+API Probs: ['0.124210526316', '0.144736842105', '0.141578947368']
+Message: Hi Shyan, we've decided to take the loan from hsbc and have alreadysigned the paperwork with them.  So no need to continue processing ourloan application.   Thanks again for your help! -Min
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88885432  0.10781862  0.00332706]
+API Probs: ['0.182', '0.17', '0.144']
+Message: Oh no. Oh my baby :*
+
+
+Prediction: 1, Real: [ 0.  0.  1.]
+NN Probs: [ 0.20484892  0.77689147  0.01825964]
+API Probs: [0.0, 0.0, 0.0]
+Message: Ah you see. You have to be in the lingo. I will let you know wot on earth it is when has finished making it!
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98828769e-01   1.12553290e-03   4.56858579e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: yeah sure thing mate haunt got all my stuff sorted but im going sound anyway promoting hex for .by the way who is this? dont know number. Joke
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93488377  0.05238781  0.01272841]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Post! "YOU CRAY!" -Fakir
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96031463e-01   3.36652901e-03   6.01995911e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hi ricky, any progress?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.14961037  0.846304    0.00408564]
+API Probs: ['0.265', '0.43', '0.288333333333']
+Message: ard 8pm i got pick u up ok?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99729276e-01   2.18395697e-04   5.23118943e-05]
+API Probs: ['0.243636363636', '0.249090909091', '0.207272727273']
+Message: Yeah just open chat and click friend lists. Then make the list. Easy as pie
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.13523017  0.85101664  0.01375316]
+API Probs: ['0.402', '0.544', '0.432']
+Message: Poke poke went back to sleep!?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.56916809e-01   4.22478393e-02   8.35365790e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Jesus Christ-.-
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94954705e-01   4.54274658e-03   5.02548122e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Aaahhh yeeeahhh... that...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91854978  0.07949913  0.00195108]
+API Probs: ['0.0466666666667', '0.0633333333333', '0.113333333333']
+Message: God this assignment =(
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98921096e-01   8.26604257e-04   2.52289086e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Looks like u wil b getting a headstart im leaving here bout 2.30ish but if u r desperate for my company I could head in earlier-we were goin to meet in rummer.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97825563e-01   1.74576882e-03   4.28690400e-04]
+API Probs: ['0.38', '0.346666666667', '0.251666666667']
+Message: As in i want custom officer discount oh.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.76335239  0.11403491  0.12261268]
+API Probs: ['0.288', '0.4', '0.276']
+Message: U like it better busy or slow?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.35415447e-01   6.38538226e-02   7.30739965e-04]
+API Probs: ['0.22', '0.246666666667', '0.27']
+Message: Thanks.. Sorry I keep forgetting haha
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99980450e-01   1.80179268e-05   1.54460315e-06]
+API Probs: ['0.277142857143', '0.461428571429', '0.254285714286']
+Message: They've gotta have since kind if no fly list at least
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99512672e-01   4.37893439e-04   4.94339911e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: This weekend is fine (an excuse not to do too much decorating)
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96147871e-01   3.37859849e-03   4.73539432e-04]
+API Probs: ['0.433333333333', '0.466666666667', '0.396666666667']
+Message: AGONY...... far more painful than yours
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99939740e-01   5.76311104e-05   2.60313413e-06]
+API Probs: ['0.544444444444', '0.576666666667', '0.383333333333']
+Message: If I get there before you after your ten billion calls and texts so help me god
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.43298471  0.54145825  0.02555706]
+API Probs: ['0.0', '0.0', '0.0']
+Message: how is your results?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99413812  0.00374918  0.00211267]
+API Probs: ['0.231666666667', '0.255833333333', '0.195833333333']
+Message: Joanna got scammed. I warned her about it a week ago but she blew me off. Tsk tsk tsk
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95741874  0.04154791  0.00103338]
+API Probs: ['0.44', '0.5', '0.31']
+Message: K, on my way
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.79835314  0.19601899  0.00562787]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Dinner?! =D
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98420417e-01   1.36252062e-03   2.17089400e-04]
+API Probs: ['0.17', '0.1975', '0.17125']
+Message: Tell her I'm sorry but it will be here soon. Should I get the router or not
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.948641    0.05019009  0.0011689 ]
+API Probs: ['0.425', '0.5', '0.47']
+Message: Lies all lies
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97291398  0.02501761  0.00206841]
+API Probs: ['0.225625', '0.286875', '0.174375']
+Message: (I should add that I don't really care and if you can't I can at least get this dude to fuck off but hey, your money if you want it)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9629305   0.02052735  0.01654215]
+API Probs: ['0.115', '0.1575', '0.095']
+Message: Okay, I'll have it out there in five minutes.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46760044  0.51732272  0.01507682]
+API Probs: ['0.51', '0.646666666667', '0.416666666667']
+Message: ll still like you..
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.01651972  0.97225004  0.01123026]
+API Probs: ['0.153333333333', '0.166666666667', '0.0933333333333']
+Message: Yeh.after my wk.ay,but wil ü all be goin out for dinner?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.66792804  0.18011431  0.15195763]
+API Probs: ['0.115', '0.08', '0.0775']
+Message: Dont kick coco when he's down
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44166365  0.48005724  0.07827913]
+API Probs: ['0.18', '0.238571428571', '0.161428571429']
+Message: Hey ur toms wad size ar?? Hehe
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.57839233  0.4162212   0.00538648]
+API Probs: ['0.51', '0.34', '0.26']
+Message: nice car
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99484599e-01   4.74232656e-04   4.11839355e-05]
+API Probs: ['0.192', '0.246', '0.211']
+Message: Haha my text sounded angry so I wanted to fix it! Oh Connor...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93930554  0.02483969  0.03585479]
+API Probs: ['0.3675', '0.4875', '0.33']
+Message: <#> percent chance of snow tomorrow night Friday morning
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99946654e-01   5.25702017e-05   7.52662174e-07]
+API Probs: ['0.08', '0.09', '0.0675']
+Message: K and you're sure I don't have to have consent forms to do it :V
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.01268207  0.98141909  0.00589885]
+API Probs: ['0.07', '0.11', '0.0866666666667']
+Message: Hahahaha not at the moment? You wanna plan? ^^
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98894989e-01   9.72179929e-04   1.32827830e-04]
+API Probs: ['0.298181818182', '0.337272727273', '0.229090909091']
+Message: See I'm gonna die first. U should take out some life insurance on me while u have the chance.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98157918  0.00493918  0.01348165]
+API Probs: ['0.152857142857', '0.181428571429', '0.18']
+Message: Uncharted 3? =DAnd perhaps... have any good multiplayer games?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.96270359e-01   3.37081915e-03   3.58847145e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Thanks honey but still haven't heard anything I will leave it a bit longer so not 2 crowd him and will try later - great advice thanks hope cardiff is still there!
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.95001376e-01   4.37720632e-03   6.21432962e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: I jus hope its true that  missin me cos i'm really missin him! You haven't done anything to feel guilty about, yet.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99596417e-01   3.97322146e-04   6.28866246e-06]
+API Probs: ['0.21125', '0.27875', '0.14875']
+Message: Lol I made steak yesterday. It was delish =P
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.11211507  0.02700976  0.86087519]
+API Probs: ['0.402857142857', '0.332857142857', '0.365714285714']
+Message: Ya use that one shld be quite fast arh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97787285  0.01902031  0.00310682]
+API Probs: ['0.286666666667', '0.283333333333', '0.195']
+Message: It says the green line to Santee =o
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24757019  0.74464089  0.00778891]
+API Probs: ['0.0933333333333', '0.1', '0.136666666667']
+Message: Kranji! Pooooooke my love
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.3088614   0.68548238  0.00565625]
+API Probs: ['0.1475', '0.18', '0.1275']
+Message: Yeah I dont mind.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97856557e-01   1.99323450e-03   1.50226333e-04]
+API Probs: ['0.1575', '0.195', '0.135']
+Message: Did he laugh at you? =P
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41024411  0.58569974  0.00405613]
+API Probs: ['0.03', '0.0', '1.0']
+Message: nus
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99544501e-01   4.47315804e-04   8.19604793e-06]
+API Probs: ['0.184285714286', '0.198571428571', '0.222857142857']
+Message: Yup, we're watching rw reaction vids =P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98877782  0.00908903  0.00213315]
+API Probs: ['0.302', '0.344', '0.2412']
+Message: Sir, hope your day is going smoothly. i really hoped i wont have to bother you about this. I have some bills that i can't settle this month. I am out of all extra cash. I know this is a challenging time for you also but i have to let you know.
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.26365718  0.12442534  0.6119175 ]
+API Probs: ['0.123333333333', '0.11', '0.126666666667']
+Message: Then when is physics test
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.95', '1.0', '0.64']
+Message: groom
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98677987  0.01205042  0.00116969]
+API Probs: ['0.186', '0.25', '0.182']
+Message: Lmao. Take a pic and send it to me.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88413143  0.11232328  0.00354532]
+API Probs: ['0.0766666666667', '0.153333333333', '0.0933333333333']
+Message: see ya soon!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99907136e-01   8.95555568e-05   3.29927320e-06]
+API Probs: ['0.139', '0.208', '0.097']
+Message: I laughed, and then I felt bad, then remembered I have no morals andlaughed again =P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99945998e-01   5.21661859e-05   1.84356315e-06]
+API Probs: ['0.125', '0.21', '0.25']
+Message: I didn't add raw noodles =P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99823749e-01   1.73369641e-04   2.90694970e-06]
+API Probs: ['0.191333333333', '0.261333333333', '0.158']
+Message: Haha I did ask her, I just felt retarded after realising I've knownthat word since I was eleven =P
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.0754532   0.29289687  0.63164997]
+API Probs: ['0.177857142857', '0.245', '0.239285714286']
+Message: Nvm la relax we haven't been able to go through all the topicsrequired for that test also, like periodic table. How's physics?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.28686836  0.60400498  0.10912664]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Okay. Thanks in advance!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21099265  0.78592879  0.0030786 ]
+API Probs: ['0.26625', '0.31125', '0.32625']
+Message: Gd sia super can choose pick until last group lol.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93665051  0.06228535  0.00106414]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Lol. Cert
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40188566  0.59145069  0.00666367]
+API Probs: ['0.126', '0.216', '0.136']
+Message: Okie I wait for u at  <#>  there
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92614150e-01   6.84778951e-03   5.38063294e-04]
+API Probs: ['0.2975', '0.3675', '0.2875']
+Message: You've got to take pics!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.4932875   0.48301384  0.02369868]
+API Probs: ['0.1', '0.133333333333', '0.136666666667']
+Message: Oh nvn then l
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.49074626  0.49140042  0.01785334]
+API Probs: ['0.333333333333', '0.461666666667', '0.278333333333']
+Message: Oh snake I would like to see!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.61832899  0.35899115  0.02267986]
+API Probs: ['0.378333333333', '0.473333333333', '0.316666666667']
+Message: This time we won't ditch each other like with the hobbit
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96190172  0.03709264  0.0010056 ]
+API Probs: ['0.208461538462', '0.267692307692', '0.16']
+Message: Just woke up. Yeesh its late. But I didn't fall asleep til <#> am :/
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40914002  0.58384645  0.00701355]
+API Probs: ['0.0', '0.0', '0.0']
+Message: when is it?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.972516    0.0259336   0.00155041]
+API Probs: ['0.16', '0.193333333333', '0.216666666667']
+Message: Syntax is hard lol
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.94071913  0.05581209  0.00346877]
+API Probs: [0.0, 0.0, 0.0]
+Message: Wow didn't think it was that common. I take it all back ur not a freak! Unless u chop it off:-)
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98600781e-01   9.58851830e-04   4.40394477e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Sorry im getting up now, feel really bad- totally rejected that kinda me thing.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.75371754  0.21842864  0.02785382]
+API Probs: ['0.0', '0.0', '0.0']
+Message: I can't, I don't have her number!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.61881983  0.3793622   0.00181797]
+API Probs: ['0.266666666667', '0.356666666667', '0.306666666667']
+Message: Yeah, as soon as I finish coming and stuff
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21881831  0.77345318  0.00772854]
+API Probs: ['0.12', '0.09', '0.16']
+Message: hahha.. ok.. happy v-day!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98674035e-01   1.15836645e-03   1.67625156e-04]
+API Probs: ['0.401111111111', '0.361111111111', '0.247777777778']
+Message: When're you guys getting back? G said you were thinking about not staying for mcr
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99747336e-01   2.13027728e-04   3.96419382e-05]
+API Probs: ['0.222222222222', '0.175555555556', '0.155555555556']
+Message: Is that what it is? Cuz i'm sittin' here thinkin her tone is like cher.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.09717701  0.89236975  0.01045326]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Dar I am at com1. Entrance
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94855201  0.05007849  0.00136951]
+API Probs: ['0.0', '0.0', '0.0']
+Message: U hi.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: perfectttt
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99842167e-01   1.41029639e-04   1.68137376e-05]
+API Probs: ['0.294772727273', '0.358409090909', '0.275681818182']
+Message: Sorry i cant take your call right now. It so happens that there r 2waxsto do wat you want. She can come and ill get her medical insurance. And she'll be able to deliver and have basic care. I'm currently shopping for the right medical insurance for her. So just give me til friday morning. Thats when i.ll see the major person that can guide me to the right insurance.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: G.W.R
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98926878e-01   9.44504340e-04   1.28609172e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: * Was really good to see you the other day dudette, been missing you!
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96728379  0.03159395  0.00112225]
+API Probs: ['0.0975', '0.1425', '0.115']
+Message: Alright, no probs. We're heading over now
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97744751  0.02075704  0.00179546]
+API Probs: ['0.49', '0.585833333333', '0.31']
+Message: Thats the sad part, ive lived here like all my life and havent done much in my adult years
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96144032  0.03231909  0.00624057]
+API Probs: ['0.09', '0.135714285714', '0.172857142857']
+Message: Hi Ing Cheong, can you bring a sample of the sheer? Thanls
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.50786239  0.47269517  0.0194424 ]
+API Probs: ['0.28', '0.593333333333', '0.316666666667']
+Message: Also maaaan are you missing out
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.15965325  0.81464094  0.02570579]
+API Probs: ['0.22', '0.388333333333', '0.143333333333']
+Message: The following message from nats phone is from shungit
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99287367e-01   6.57942088e-04   5.47065247e-05]
+API Probs: ['0.229166666667', '0.2775', '0.205833333333']
+Message: Let there be snow. Let there be snow. This kind of weather brings ppl together so friendships can grow.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2021639   0.76883703  0.02899907]
+API Probs: ['0.0625', '0.0775', '0.095']
+Message: oh..Okie..Abt what time?I let them know..
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.30603996  0.68395048  0.01000954]
+API Probs: ['0.316', '0.374', '0.272']
+Message: Dear, Friday got anything on?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95689118  0.04029413  0.00281468]
+API Probs: ['0.343333333333', '0.51', '0.35']
+Message: Those were my exact intentions
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40496898  0.58997935  0.00505165]
+API Probs: ['0.0', '0.0', '0.0']
+Message: C6 :/
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.62472439e-01   3.70371193e-02   4.90452861e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Haha xD
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.79556668  0.19276589  0.01166743]
+API Probs: ['0.095', '0.275', '0.0875']
+Message: Is avatar supposed to have subtoitles
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98478651e-01   1.44765154e-03   7.37114315e-05]
+API Probs: ['0.254285714286', '0.297142857143', '0.29619047619']
+Message: I just want a plate of california roll sushi I'm craving, I'm working today and I can't leave this job today I need to take it while it's available
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98606920e-01   1.23755215e-03   1.55530171e-04]
+API Probs: ['0.311666666667', '0.442333333333', '0.281333333333']
+Message: At Unitarian churches you get lots of people from different religionswho just want a good community and chance to believe what they want,not really all that dumb I don't think... they're normal people whoagree with intellectual truths and happen to think "oh somethinggodlike is out there"
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96481776e-01   3.33167356e-03   1.86569669e-04]
+API Probs: ['0.25', '0.315', '0.18']
+Message: No need for the drug anymore.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.78429186  0.21102567  0.00468247]
+API Probs: ['0.16375', '0.19625', '0.12625']
+Message: Oh dang! I didn't mean o send that to you! Lol!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.22364302  0.77124941  0.00510754]
+API Probs: ['0.53', '1.0', '0.57']
+Message: bye
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.97856975e-01   1.78082159e-03   3.62205319e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hasn't that been the pattern recently crap weekends?
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.74917269  0.24235715  0.00847014]
+API Probs: ['0.1275', '0.17', '0.12']
+Message: Will do, maybe monday
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97131926  0.01212215  0.01655861]
+API Probs: ['0.217142857143', '0.27', '0.212857142857']
+Message: Psh you hardly used gaia... what could yours even have?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97329295e-01   2.29463819e-03   3.76079173e-04]
+API Probs: ['0.175714285714', '0.215714285714', '0.115714285714']
+Message: That's what you get for being a douche =P I shouldn't have told you
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98123705e-01   1.69385690e-03   1.82436706e-04]
+API Probs: ['0.39125', '0.42125', '0.26']
+Message: K, I might come by tonight then if my class lets out early
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98021960e-01   1.37412676e-03   6.03893131e-04]
+API Probs: ['0.201428571429', '0.237142857143', '0.238571428571']
+Message: I thank you so much for all you do with selflessness. I love you plenty.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40430084  0.58610874  0.00959042]
+API Probs: ['0.332857142857', '0.378571428571', '0.33']
+Message: Heee . We go robinson first bbp
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2336659   0.76370174  0.00263234]
+API Probs: ['0.175', '0.205', '0.325']
+Message: haha oki
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99093533e-01   8.43634538e-04   6.28517228e-05]
+API Probs: ['0.171428571429', '0.342857142857', '0.204285714286']
+Message: (And I strategically say that because she identifies add a feminist)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95240808e-01   4.23345948e-03   5.25734678e-04]
+API Probs: ['0.14', '0.188571428571', '0.25']
+Message: Alright, cool.. and psh I'm gonna come talk to you
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98340547e-01   1.53545558e-03   1.23991093e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Let me know if you need anything else. Salad or desert or something... How many beers shall i get?
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44444928  0.55265081  0.00289992]
+API Probs: ['0.146666666667', '0.133333333333', '0.266666666667']
+Message: Vat the hell coming!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99858916e-01   1.21174831e-04   1.98865673e-05]
+API Probs: ['0.19625', '0.21625', '0.15']
+Message: Alicia! This is Brandon. When's our rehearsal for the voice event with Tali?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99772310e-01   2.16191678e-04   1.14966615e-05]
+API Probs: ['0.29', '0.376470588235', '0.275882352941']
+Message: Yeah, admittedly that was weird... but that could be just as muchpart of him being 'conservative'. Religious people aren't known forbeing against immigrant rights as far as I've seen lol
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.18926291  0.76824737  0.04248972]
+API Probs: ['0.055', '0.1275', '0.0575']
+Message: Where to pick you? what time?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96454227  0.01638908  0.01906864]
+API Probs: ['0.137142857143', '0.208571428571', '0.152857142857']
+Message: Well I have to come anyway so I could just come now
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95700228  0.03904546  0.00395227]
+API Probs: ['0.221428571429', '0.219285714286', '0.174285714286']
+Message: Hi Desmond, your tenant from Warren here.  We received another letterfrom SMT&P your solicitors. I assume it's important.  Can you tell mewhere I should mail it to to reach you (you sent me your addresspreviously, but I deleted it).  Thanks
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.84397751  0.13348901  0.02253348]
+API Probs: ['0.17', '0.18', '0.21']
+Message: what time are you going?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99605739  0.00206858  0.00187402]
+API Probs: ['0.262857142857', '0.275714285714', '0.267857142857']
+Message: Lol that's cause I'm following u. I got my bags packed in the trunk. Make room for me!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.31942493  0.6767292   0.00384587]
+API Probs: ['0.274', '0.136', '0.08']
+Message: Have you finished work yet? :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99108982  0.00784518  0.00106501]
+API Probs: ['0.0966666666667', '0.144444444444', '0.123333333333']
+Message: Ok. We met to discuss the visualization.  Nothing in particular came up.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99553859e-01   3.81612772e-04   6.45092150e-05]
+API Probs: ['0.066', '0.072', '0.054']
+Message: Ok. She'll be ok. I guess
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96462065  0.03431355  0.00106581]
+API Probs: ['0.24', '0.29', '0.116666666667']
+Message: And carrots and pears?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.27124831  0.71507633  0.01367538]
+API Probs: ['0.0', '0.0', '0.0']
+Message: == why so kaobei
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99928415e-01   6.51952141e-05   6.36797722e-06]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hmm ok, i'll stay for like an hour cos my eye is really sore!
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.04762638  0.9481532   0.00422041]
+API Probs: ['0.0', '0.0', '0.0']
+Message: oki,
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: For*
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.8455447   0.14954343  0.00491187]
+API Probs: ['0.39', '0.394', '0.318']
+Message: I love working from home :)
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.39329121  0.55862039  0.04808838]
+API Probs: ['0.28', '0.273333333333', '0.18']
+Message: Yep, sure thing
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94455636  0.02250722  0.03293641]
+API Probs: ['0.31', '0.343333333333', '0.246666666667']
+Message: Alright, I'll head out in a few minutes, text me where to meet you
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.62049228  0.37231138  0.00719634]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hokay <3 caw!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88278031  0.1094453   0.00777439]
+API Probs: ['0.12', '0.166', '0.066']
+Message: If You mean the website. Yes.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98789096  0.01037777  0.00173126]
+API Probs: ['0.146666666667', '0.215416666667', '0.13625']
+Message: Thee bathtub guys can comes anytime this week, preferably onwednesday. As for the painter, just let me know.  Also I still needthe color scheme for the house from you for my records.  Finally, howabout the other items?  Thanks
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98932481e-01   7.16093287e-04   3.51421186e-04]
+API Probs: ['0.292692307692', '0.339230769231', '0.219230769231']
+Message: Everyone says that robb's wife attending the rw is proof she doesnthave his heir, but the blackfish wasnt with them at the rw and he HASto get back to riverrun right?  What if this is PROVING the robb hasan heir theory and the blackfish escapes with her?!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98279083  0.01615358  0.00105562]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yeah def, why?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97154593e-01   2.68057710e-03   1.64814424e-04]
+API Probs: ['0.2025', '0.28', '0.2375']
+Message: Yeah why not, is the gang all ready
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.35385182  0.59781218  0.04833601]
+API Probs: ['0.615', '0.805', '0.6']
+Message: you alway like that
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.12328322  0.87559152  0.00112524]
+API Probs: ['0.131428571429', '0.114285714286', '0.12']
+Message: Oops sorry for late reply. It's on  <#>  march.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.43620819  0.55584121  0.00795061]
+API Probs: ['0.62', '0.97', '0.44']
+Message: yeah
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.87580657e-01   1.17688505e-02   6.50479924e-04]
+API Probs: ['0.175', '0.196666666667', '0.15']
+Message: Its a great day. Do have yourself a beautiful one.
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.20716572  0.10952315  0.6833111 ]
+API Probs: ['0.0275', '0.1575', '0.0675']
+Message: Oh okay then thurs night?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.30850473  0.68972582  0.00176947]
+API Probs: ['0.03125', '0.04625', '0.04']
+Message: eCR Status: eCR is currently unavailable. (# <#> )
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.80493146  0.18846026  0.0066083 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: YOU!!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.76205766e-01   2.30703894e-02   7.23852194e-04]
+API Probs: ['0.176666666667', '0.191666666667', '0.138333333333']
+Message: Have a great day :) See you soon!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02348457  0.9664253   0.01009016]
+API Probs: ['0.3', '0.333333333333', '0.213333333333']
+Message: Tell me when you start ordering
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83545339  0.16318014  0.00136647]
+API Probs: ['0.0', '0.0', '0.0']
+Message: ok,  <#>  can?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97694731  0.01973465  0.00331805]
+API Probs: ['0.51', '0.558333333333', '0.371666666667']
+Message: Also remember to get dobby's bowl from your car
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.65993714  0.33808193  0.0019809 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: :(
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95469397  0.04345114  0.00185486]
+API Probs: ['0.14', '0.22', '0.173333333333']
+Message: Yettie hw na
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98581707e-01   1.26293662e-03   1.55328511e-04]
+API Probs: ['0.045', '0.05', '0.0716666666667']
+Message: Ooh private. What are YOU thinking of?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95215714e-01   4.01018513e-03   7.74122833e-04]
+API Probs: ['0.145', '0.345', '0.13']
+Message: Shhhhh nobody is supposed to know!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99833584e-01   1.49037558e-04   1.73762892e-05]
+API Probs: ['0.23', '0.321428571429', '0.204285714286']
+Message: You've already got a flaky parent. It'snot supposed to be the child's job to support the parent...not until they're The Ride age anyway. I'm supposed to be there to support you. And now i've hurt you. unintentional. But hurt nonetheless.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.76244432  0.22932914  0.00822654]
+API Probs: ['0.202631578947', '0.260526315789', '0.277894736842']
+Message: Right?! I don't even know it's day when I wake up. I slept til 3today cause I thought it was night lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97739792e-01   1.69378042e-03   5.66416304e-04]
+API Probs: ['0.312222222222', '0.352222222222', '0.248888888889']
+Message: I've told you everything will stop. Just dont let her get dehydrated.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96836722e-01   2.71193078e-03   4.51364700e-04]
+API Probs: ['0.273076923077', '0.331538461538', '0.272307692308']
+Message: Well at this right I'm gonna have to get up and check today's steam sales/pee so text me when you want me to come get you
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83879697  0.15689272  0.00431029]
+API Probs: ['0.1', '0.125', '0.0']
+Message: I believe so
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.32779679  0.66547203  0.00673122]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yes exactly.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.42368433  0.57070011  0.00561554]
+API Probs: ['0.136666666667', '0.18', '0.133333333333']
+Message: Lol give out your rings.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.90021557  0.07708826  0.02269617]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ohio'll do that to ya
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98449504e-01   1.26759929e-03   2.82886293e-04]
+API Probs: ['0.07', '0.075', '0.1025']
+Message: Hey! I love y you!!!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.82734352  0.17014509  0.00251137]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Whoops sorry!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.7972365   0.17923632  0.02352717]
+API Probs: ['0.16625', '0.1975', '0.155']
+Message: Cool. Do you like swimming? I have a pool and jacuzzi at my house.
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98043239e-01   1.62646780e-03   3.30315990e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hello. No news on job, they are making me wait a fifth week! Yeah im up for some woozles and weasels... In exeter still, but be home about 3.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99848425e-01   1.30624991e-04   2.09594782e-05]
+API Probs: ['0.208181818182', '0.243181818182', '0.186818181818']
+Message: Yes! I worked at the Alamo Drafthouse. it was the best job I ever had. Free tix free drinks and food. And the guys were sooo cute! I shouldn't have quit!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99921083e-01   6.49361100e-05   1.39657805e-05]
+API Probs: ['0.2875', '0.365', '0.2025']
+Message: Wow, that was really hard to type.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.54899251e-01   4.41830307e-02   9.17698140e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hurry
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9789359   0.01951094  0.00155314]
+API Probs: ['0.335', '0.41', '0.2']
+Message: Public health
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.13050173  0.85987216  0.0096261 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Where is the chalet?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.13974135  0.80624622  0.05401243]
+API Probs: ['0.39', '0.09', '0.14']
+Message: Yeah all in the spare box
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41043815  0.58655488  0.00300693]
+API Probs: ['0.325', '0.385', '0.215']
+Message: I am coming
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.45263314  0.46384573  0.08352112]
+API Probs: ['0.316666666667', '0.376666666667', '0.243333333333']
+Message: Oops just saw your msg
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97971714e-01   1.76887773e-03   2.59410444e-04]
+API Probs: ['0.214615384615', '0.268461538462', '0.24']
+Message: Yeah right. I bet your thinking FINALLY this bitch will leave me alone I should NEVER have given her my num!ber
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94980931e-01   4.16582962e-03   8.53222387e-04]
+API Probs: ['0.127142857143', '0.157142857143', '0.135714285714']
+Message: No problem! I already forced you too come once xP
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88218445  0.11456192  0.00325363]
+API Probs: ['0.2775', '0.46', '0.175']
+Message: Otherwise I totes would
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95605588e-01   4.14627977e-03   2.48124357e-04]
+API Probs: ['0.08', '0.09', '0.05']
+Message: Hahah that's funny
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98483407  0.01299535  0.00217057]
+API Probs: ['0.196666666667', '0.215', '0.136666666667']
+Message: Still going to be a while. Hope all is ok at home.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.37120613  0.6257658   0.00302808]
+API Probs: ['0.0', '0.0', '0.0']
+Message: <URL> +women
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.78318775  0.20843711  0.00837511]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Love it! how so baby?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94659066e-01   5.27637079e-03   6.45637701e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: =P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98091459e-01   1.51839131e-03   3.90119938e-04]
+API Probs: ['0.22', '0.275', '0.309166666667']
+Message: Think I could stop by in like an hour or so? My roommate's looking to stock up for a trip
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97860062  0.02002795  0.00137144]
+API Probs: ['0.25', '0.2375', '0.22']
+Message: Why is princess tutu so sad???!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96430635e-01   3.31978058e-03   2.49555043e-04]
+API Probs: ['0.253333333333', '0.333333333333', '0.2']
+Message: Are you doing anything this weekend?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98866498e-01   1.03737728e-03   9.61461847e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Haha I have no idea!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93711579  0.05616281  0.00672142]
+API Probs: ['0.25', '0.334', '0.248']
+Message: That's fine, I'll bitch at you about it later then
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.87182415  0.11885025  0.00932563]
+API Probs: ['0.1825', '0.25', '0.155']
+Message: Nothing like the greyhound, huh?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9867366   0.01152226  0.00174112]
+API Probs: ['0.14125', '0.1875', '0.1275']
+Message: Can you just come in for a sec? There's somebody here I want you to see
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.52472031e-01   4.71169911e-02   4.10993729e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yo I'm here
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40289873  0.02074228  0.57635897]
+API Probs: ['0.168181818182', '0.228181818182', '0.263636363636']
+Message: hee.just abt to msg u..我到家了！！ love my boy. take a good rest n drink!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.3604939   0.63649368  0.00301241]
+API Probs: ['0.084', '0.124', '0.1']
+Message: Haha I know la :-P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99335587e-01   6.09025068e-04   5.53966238e-05]
+API Probs: ['0.231875', '0.3525', '0.2775']
+Message: In case you wake up wondering where I am, I forgot I have to take care of something for grandma today, should be done before the parade
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97429311e-01   2.43496173e-03   1.35726441e-04]
+API Probs: ['0.225454545455', '0.249090909091', '0.200909090909']
+Message: Ok Chinese food on its way. When I get fat you're paying for my lipo.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21195877  0.77992183  0.00811941]
+API Probs: ['0.273333333333', '0.29', '0.253333333333']
+Message: Hey, so got chalet?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91422361  0.07902572  0.00675069]
+API Probs: ['0.055', '0.015', '0.0075']
+Message: Get Ila stuff from box
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99664307e-01   3.19121318e-04   1.65724850e-05]
+API Probs: ['0.287222222222', '0.296666666667', '0.181111111111']
+Message: Hi Stewart,  can you help arrange the other two on Wed late afternooneg ~5pm? Also, can you get any photographs of today's unit  <#>avenue to us? Thank you for your help.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.79202449e-01   1.98939499e-02   9.03600128e-04]
+API Probs: ['0.52', '0.795', '0.47']
+Message: yea i know
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.6637851   0.27232707  0.06388784]
+API Probs: ['0.325', '0.44', '0.2675']
+Message: Use your mob family connections
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.70856011e-01   2.85497420e-02   5.94235200e-04]
+API Probs: ['0.310555555556', '0.345555555556', '0.243333333333']
+Message: At the transit center, take either northwood or commuter north, thenlook for the Francois-Xavier something building and pull the thing...then I'll just come get you lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99693215e-01   2.86084251e-04   2.06863751e-05]
+API Probs: ['0.218', '0.468', '0.268']
+Message: P 5 actionsartP4 person hierarchy
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99866426e-01   1.09349719e-04   2.42300630e-05]
+API Probs: ['0.206666666667', '0.256666666667', '0.1']
+Message: when you and derek done with class?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99010724  0.00672113  0.00317164]
+API Probs: ['0.226', '0.272', '0.252']
+Message: Alright, whatever works... thank you so so much
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44111371  0.53754967  0.02133661]
+API Probs: ['0.2525', '0.1925', '0.185']
+Message: Happy new year dad.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97644007e-01   1.84511440e-03   5.10891783e-04]
+API Probs: ['0.0528571428571', '0.174285714286', '0.0885714285714']
+Message: Ok hersheys for me. What kind u want?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.06847773  0.92483777  0.00668452]
+API Probs: ['0.213333333333', '0.205555555556', '0.268888888889']
+Message: Please if u want to contact me call this no.91620941(starhub-hi.card) very sorry for the inconvenience caused.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93749386  0.0605174   0.00198873]
+API Probs: ['0.356923076923', '0.432307692308', '0.363846153846']
+Message: Ah poop. Looks like ill prob have to send in my laptop to get fixed cuz it has a gpu problem
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.90690082  0.02941025  0.06368895]
+API Probs: ['0.388', '0.32', '0.404']
+Message: Agreed.. well I'll call from now onward
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.17259458  0.81734228  0.01006316]
+API Probs: ['0.167692307692', '0.173846153846', '0.186923076923']
+Message: Hmmm, newsweek is ok loh... Maybe we chat some other time when ü free then...  rest early   :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.71125239  0.28466859  0.004079  ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Oya iSEE
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.36872053  0.61662787  0.01465157]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Dear reach home?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.80462867  0.19344057  0.00193074]
+API Probs: ['0.0158333333333', '0.0941666666667', '0.0116666666667']
+Message: Lol your right. What diet? Everyday I cheat anyway. I'm meant to be a fatty :(
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98897612e-01   9.64178180e-04   1.38205767e-04]
+API Probs: ['0.272826086957', '0.28152173913', '0.256086956522']
+Message: Hi Ricky, I need to check with you about the outstanding issues.  1)soil for the backyard, 2) paint touch up and 3) plastic edge for thesliding glass door, 4) bathtub sanding, 5) gold color for house number(the glass people says the existing is sandblasted not a sticker), 6)tiler's access door to be reconstructed, 7) please send me the colorscheme for the house. Finally, can you tell me about my neighbor'spaint progress?  Thanks.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.74654382  0.24196242  0.01149374]
+API Probs: ['0.0933333333333', '0.1', '0.136666666667']
+Message: I love you!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46042201  0.53633338  0.00324458]
+API Probs: ['0.0', '0.0', '0.0']
+Message: No worries.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94759858  0.04962468  0.00277676]
+API Probs: ['0.0866666666667', '0.118333333333', '0.101666666667']
+Message: Lol I know. And he suggested the contacts. So I asked him are u cheating on me?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.48461556  0.51070368  0.00468078]
+API Probs: ['1.0', '0.17', '0.45']
+Message: 5pm
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89394778  0.09770841  0.0083438 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Good
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.0364565   0.95363986  0.00990362]
+API Probs: ['0.152', '0.236', '0.224']
+Message: It screwed up. There's error
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98894441  0.00931857  0.00173704]
+API Probs: ['0.204285714286', '0.225714285714', '0.205714285714']
+Message: Ooh I like the winning outfit from the design contest.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.14405696  0.84906095  0.00688207]
+API Probs: ['0.11', '0.05', '0.245']
+Message: Neh cant
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.38534051  0.60521591  0.00944361]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Whee flight. Bye!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89394778  0.09770841  0.0083438 ]
+API Probs: ['0.075', '0.03', '0.0']
+Message: Good idear
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95970339  0.01911767  0.02117895]
+API Probs: ['0.2725', '0.44', '0.33625']
+Message: That's one of the issues but california is okay. No snow so its manageable
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83409429  0.1571414   0.00876428]
+API Probs: ['0.2075', '0.4525', '0.1325']
+Message: The datemyschool or whatever thing
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.77055109  0.2275487   0.00190021]
+API Probs: ['0.163333333333', '0.266666666667', '0.103333333333']
+Message: My mom's yo
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.29805753  0.69686794  0.00507453]
+API Probs: ['0.0925', '0.0775', '0.0925']
+Message: No..Coz i haf no lab 2dae..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.82652944  0.16693422  0.00653635]
+API Probs: ['0.173333333333', '0.126666666667', '0.13']
+Message: 9 doorz nigo!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.6473667   0.34437087  0.00826244]
+API Probs: ['0.266666666667', '0.313333333333', '0.21']
+Message: You still awake?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24253429  0.75395495  0.00351076]
+API Probs: ['0.147142857143', '0.198571428571', '0.127142857143']
+Message: Chou bao. Bei u coming o er are?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99108118  0.00484451  0.00407431]
+API Probs: ['0.228823529412', '0.275294117647', '0.296470588235']
+Message: Had the money issue weigh me down but thanks to you, I can breathe easier now. I.ll make sure you dont regret it. Thanks.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.3000873   0.69413143  0.00578127]
+API Probs: ['0.0', '0.0', '0.0']
+Message: BE HOPEFUL ALWAYS.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.55143905  0.44041163  0.00814933]
+API Probs: ['0.0333333333333', '0.25', '0.08']
+Message: Where r u
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83829278  0.15730333  0.00440388]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yaaaaaaay!!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99894679e-01   9.80862533e-05   7.20780736e-06]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Happy Valentine's day!Really? Huh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98609424e-01   1.16670621e-03   2.23882424e-04]
+API Probs: ['0.181363636364', '0.219545454545', '0.136818181818']
+Message: I agree. It's also patronizing. "I know no one can see you're blackon this scholarship app so it's not an issue, but, well, you're black.You obvs  need help."
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.58514953  0.39753777  0.01731272]
+API Probs: ['0.285', '0.2', '0.5']
+Message: Both of them are snoozing
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.39651382  0.59441084  0.00907534]
+API Probs: ['0.18', '0.1575', '0.1525']
+Message: Haven't been out of the country for over a year =)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95947361e-01   3.45765916e-03   5.94952086e-04]
+API Probs: ['0.355', '0.46', '0.385']
+Message: He'll bring you here or some get you?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.01621041  0.97166634  0.01212327]
+API Probs: ['0.0633333333333', '0.0433333333333', '0.0466666666667']
+Message: I meant cool!
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41878849  0.10034794  0.48086357]
+API Probs: ['0.38', '0.428333333333', '0.433333333333']
+Message: In the room now, didn't bring back
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.52681565  0.45775878  0.01542554]
+API Probs: [0.0, 0.0, 0.0]
+Message: Did u find out what time the bus is at coz i need to sort some stuff out.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97374129  0.02384722  0.00241149]
+API Probs: ['0.335', '0.5', '0.2']
+Message: Sitting at home
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02218143  0.97576356  0.00205499]
+API Probs: ['0.0366666666667', '0.21', '0.09']
+Message: Tj <#> kay
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99670243  0.00216527  0.0011323 ]
+API Probs: ['0.521111111111', '0.654444444444', '0.383333333333']
+Message: We're all getting worried over here, derek and taylor have already assumed the worst
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99470711e-01   5.16574073e-04   1.26912446e-05]
+API Probs: ['0.396666666667', '0.373333333333', '0.316666666667']
+Message: How long before you get reply, just defer admission til next semester
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.31573564  0.6805042   0.00376015]
+API Probs: ['0.032', '0.018', '0.02']
+Message: Farm hat at  <#> pm? Lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99775851  0.00115553  0.00108597]
+API Probs: ['0.41', '0.497142857143', '0.408571428571']
+Message: I'm going to teleport to you and make your cramps go away!
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.98648101  0.01009063  0.00342836]
+API Probs: [0.0, 0.0, 0.0]
+Message: I'll text now! All creepy like so he won't think that we forgot
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98436528  0.01380144  0.00183328]
+API Probs: ['0.226111111111', '0.248888888889', '0.212222222222']
+Message: Hahaha xP we definitely have to hang out. A lot. We're due a lot ofmonopoly and talking about blaze =P I miss you so much ahhhhh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.78462040e-01   2.09896751e-02   5.48299984e-04]
+API Probs: ['0.236666666667', '0.233333333333', '0.26']
+Message: Does everyone check in at  <#>  cram whatever?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.93973374e-01   5.85230812e-03   1.74314366e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Haha awesome, I've been to 4u a couple times. Who all's coming?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.11337027  0.81494379  0.07168593]
+API Probs: ['0.262857142857', '0.252857142857', '0.208571428571']
+Message: Augh they still haven't returned from dinner. Where is astro
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89966804  0.09921197  0.00111997]
+API Probs: ['0.0957142857143', '0.114285714286', '0.12']
+Message: Hahaha.. when I turned  <#>  I did nothing lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99898076e-01   8.99722436e-05   1.19404613e-05]
+API Probs: ['0.29', '0.320833333333', '0.235833333333']
+Message: Awesome, plan to get here any time after like  <#> , I'll text you details in a wee bit
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9147892   0.0393585   0.04585232]
+API Probs: ['0.43375', '0.4375', '0.32']
+Message: If I had teleportation powers I would definitely use them
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.94602394  0.0518779   0.00209814]
+API Probs: [0.0, 0.0, 0.0]
+Message: That's a shame! Maybe cld meet for few hrs tomo?
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.84963596e-01   1.48107586e-02   2.25627722e-04]
+API Probs: ['0.16', '0.21', '0.19']
+Message: Library partying lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91694927  0.07760086  0.00544985]
+API Probs: ['0.204', '0.198', '0.282']
+Message: I miss it. And the rest of you
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92877960e-01   6.40763482e-03   7.14376918e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Until you're here?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99941707e-01   5.68152682e-05   1.47483161e-06]
+API Probs: ['0.0', '0.0', '0.0']
+Message: ;_;
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.91849542e-01   7.69653404e-03   4.53908462e-04]
+API Probs: ['0.12', '0.166666666667', '0.26']
+Message: See? I thought it all through
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.51436228  0.43752661  0.04811114]
+API Probs: ['0.0', '0.0', '0.0']
+Message: What you up to?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.76397413  0.23188162  0.00414426]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Btw, GoT?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99749303e-01   2.26075892e-04   2.45969459e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: Ho ho - big belly laugh! See ya tomo
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99438286e-01   4.96053020e-04   6.56394623e-05]
+API Probs: ['0.015', '0.00666666666667', '0.01']
+Message: It,,s a taxt massage....tie-pos argh ok! Lool!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.05785371  0.93346006  0.00868621]
+API Probs: ['0.28', '0.32', '0.285']
+Message: Next month
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.93664980e-01   5.86661883e-03   4.68411978e-04]
+API Probs: ['0.25', '0.322', '0.302']
+Message: Sorry! I was driving to starbucks :*
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.70015508  0.29588285  0.00396205]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Buster.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97757995  0.01764274  0.00477729]
+API Probs: ['0.422222222222', '0.498888888889', '0.346666666667']
+Message: Hey mom! just letting you know that I got back to school safely
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97548282e-01   2.14358419e-03   3.08127142e-04]
+API Probs: ['0.241764705882', '0.294411764706', '0.207647058824']
+Message: 'f that's what Kraehe wants, she'll be disappointed these days...'"And  what if he says to hurt your precious sister? "  Fakir  rolledhis eyes and  crossed his arms.  How much could he get away with?  Howmuch would make her respond how he wanted her to? "You're a patheticlittle drone, aren't you?"
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.97872472e-01   1.76730577e-03   3.60205071e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Jolly good! By the way,  will give u tickets for sat eve 7.30. Speak before then x
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02588103  0.9712497   0.00286929]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Dam kaobei
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.12624639  0.85548764  0.01826598]
+API Probs: ['0.251666666667', '0.2675', '0.330833333333']
+Message: The matrix table weightage thing.  Can I edit part of the porters five as well
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40863025  0.58658296  0.00478677]
+API Probs: ['0.21875', '0.2575', '0.28875']
+Message: Dar dar ... go sleep go sleep. Hee
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.45759937  0.52570313  0.0166975 ]
+API Probs: ['0.145714285714', '0.168571428571', '0.11']
+Message: I did not collect it. I tink my senior helped me to
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99668479e-01   2.14179963e-04   1.17337659e-04]
+API Probs: ['0.384', '0.492', '0.3']
+Message: Are you going to see her show today?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99605954e-01   3.42120882e-04   5.19478162e-05]
+API Probs: ['0.118333333333', '0.0866666666667', '0.173333333333']
+Message: Take us out shopping and Mark will distract Isaiah.=D
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97184801  0.02664489  0.00150709]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Jay up yet?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2119265   0.78639352  0.00168   ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Lol weird, haha.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98079598e-01   1.74599525e-03   1.74381683e-04]
+API Probs: ['0.381', '0.433', '0.3055']
+Message: Yes I started to send requests to make it but pain came back so I'm back in bed. Double coins at the factory too. I gotta cash in all my nitros.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.3176032   0.48661375  0.19578306]
+API Probs: ['0.318461538462', '0.351538461538', '0.261538461538']
+Message: U want to ask me anything? Cos I still in school now, going g to go off soon.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94649863  0.03660361  0.01689776]
+API Probs: ['0.38', '0.595', '0.3625']
+Message: Will it all fit in the back of the pickup
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99047142  0.00458368  0.00494489]
+API Probs: ['0.09', '0.1175', '0.085']
+Message: What should I text her?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98803031  0.01082684  0.00114287]
+API Probs: ['0.511666666667', '0.71', '0.325']
+Message: Will it help if we propose going back again tomorrow
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.22598694  0.4611865   0.31282657]
+API Probs: ['0.376363636364', '0.420909090909', '0.426363636364']
+Message: Orh den okay la. My results end of month den get back
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97393429e-01   2.02048547e-03   5.86094102e-04]
+API Probs: ['0.183214285714', '0.212321428571', '0.154107142857']
+Message: no, i *didn't* mean to post it. I wrote it, and like so many other times i've ritten stuff to you, i let it sit there. it WAS what i was feeling at the time. I was angry. Before i left, i hit send, then stop. It wasn't there. I checked on my phone when i got to my car. It wasn't there. You said you didn't sleep, you were bored. So why wouldn't THAT be the time to clean, fold laundry, etc.? At least make the bed?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.13690868  0.85916817  0.00392313]
+API Probs: ['0.355555555556', '0.238888888889', '0.334444444444']
+Message: that's right buffet starts at  <DECIMAL> pm to abt  <#> pm
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98331130e-01   1.13943790e-03   5.29420155e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Roger that. We‘re probably going to rem in about 20
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98547196e-01   1.32349785e-03   1.29306529e-04]
+API Probs: ['0.197272727273', '0.269090909091', '0.185454545455']
+Message: That depends. Where u taking me to eat? U still owe me a date remember?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9569087   0.03700862  0.00608266]
+API Probs: ['0.347857142857', '0.437142857143', '0.311428571429']
+Message: Blanket is outside your door. Don't know whether you will get cold.Also your tea is in the dry kitchen refrigerator, wrapped withplastic.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.35177743  0.60462952  0.04359305]
+API Probs: ['0.335', '0.22', '0.3075']
+Message: Ill be at yours in about 3 mins but look out for me
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.61707371  0.35260823  0.03031801]
+API Probs: ['0.34619047619', '0.314761904762', '0.24619047619']
+Message: I would use features best you can if you can unite a class... likeinstead of t>s and d>s, alv stops to fricatives.. if there's just oneinvolved, t>s would be fine (obv a made up example)
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.4759503   0.51057774  0.01347196]
+API Probs: ['0.124', '0.2', '0.094']
+Message: AHH SORRY!! I just woke up x.x
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94551480e-01   5.20310644e-03   2.45419447e-04]
+API Probs: ['0.141666666667', '0.15', '0.13']
+Message: Woohoo! I just got done shaving :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99133587e-01   8.10747733e-04   5.56437335e-05]
+API Probs: ['0.0442857142857', '0.05', '0.0671428571429']
+Message: No Sunday, but I'll be back... but Friday's my birthday =P
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.19544092  0.80134422  0.00321487]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Cya
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.86500448  0.10539564  0.0295999 ]
+API Probs: [0.0, 0.0, 0.0]
+Message: No. Yes please. Been swimming?
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99975741e-01   2.40964237e-05   1.88227901e-07]
+API Probs: ['0.26', '0.325', '0.185']
+Message: That's too long
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.29830492  0.69586933  0.00582574]
+API Probs: ['0.205', '0.2175', '0.19']
+Message: Ps I got arp...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.90755075  0.0543984   0.03805085]
+API Probs: ['0.257222222222', '0.274444444444', '0.204166666667']
+Message: Hi Ricky, I didn't get the name.  If you want me to do it, please askuhome to return me the money for your charge.   You charged  <#>  fordoing it and I want you to complete the work and verification withoutneeding my help.   <#>  is reallly a lot of money for filling a fewforms.  Please let me know the progress. Thanks.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24258888  0.73065609  0.02675504]
+API Probs: ['0.3125', '0.3825', '0.455']
+Message: Okay we go for dinner then?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97967362e-01   1.91157614e-03   1.21039062e-04]
+API Probs: ['0.104', '0.13', '0.074']
+Message: Woah sweet! How long are you doing it for?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99732018e-01   2.51217047e-04   1.67787293e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: You should know now. So how's anthony. Are you bringing money. I've school fees to pay and rent and stuff like that. Thats why i need your help. A friend in need....|
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97196394  0.02338554  0.00465053]
+API Probs: ['0.262727272727', '0.288181818182', '0.251818181818']
+Message: No problem baby. Is this is a good time to talk? I called and left a message.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.67666501  0.31591183  0.00742318]
+API Probs: ['0.34625', '0.29125', '0.3475']
+Message: It could work, we'll reach a consensus at the next meeting
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.76994872e-01   2.25221459e-02   4.82989039e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ok.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97711778e-01   2.25021737e-03   3.80115671e-05]
+API Probs: ['0.359459459459', '0.391351351351', '0.312432432432']
+Message: Don't forget to take your first break late to call acs about getting the cats fixed. They take calls from 9 to <#> . Try to schedule all the girls. Tell them you live at your moms address. When I take the boys later I will use our address. The # is <#> <#> .
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.37431484  0.09747568  0.52820951]
+API Probs: ['0.35', '0.4925', '0.345']
+Message: s e 2nd or 3rd after max...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98768425  0.00694436  0.00537136]
+API Probs: ['0.263', '0.25', '0.256']
+Message: Are you just writing native speaker for english proficiency? Orshould I put more?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.99221426  0.00622777  0.00155798]
+API Probs: [0.0, 0.0, 0.0]
+Message: Your daily text from me – a favour this time
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.68151903  0.3126851   0.00579585]
+API Probs: ['0.0', '0.0', '0.0']
+Message: No problem. How are you doing?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99534130e-01   4.00377932e-04   6.55189142e-05]
+API Probs: ['0.239444444444', '0.402222222222', '0.233888888889']
+Message: Dude I know he probably thinks it's a bullshit excuse, but that                                   actually is the weekend of my mom's birthday. I would be so fucking                                down to perform at redcat otherwise
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99748349e-01   1.55432135e-04   9.62462145e-05]
+API Probs: ['0.056', '0.06', '0.082']
+Message: Hey! Thanks. I love her too.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.42287108  0.47720674  0.09992217]
+API Probs: ['0.298888888889', '0.325555555556', '0.374444444444']
+Message: Hey you and cally go eat first. I go buy tickets.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97331172  0.02518401  0.00150428]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hey! There's veggie pizza... :/
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.32373902  0.66556293  0.01069801]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Honors B+Major A
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99489903e-01   4.74529021e-04   3.55866214e-05]
+API Probs: ['0.26875', '0.30375', '0.1575']
+Message: What u got planned for today? Work work and more work?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.74748129  0.2515527   0.00096604]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Phone =o
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97711229  0.02151471  0.00137302]
+API Probs: ['0.0', '0.0', '0.0']
+Message: She's so so so dumb.. Ugh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99234921  0.00352872  0.00412207]
+API Probs: ['0.441538461538', '0.455384615385', '0.373846153846']
+Message: He says he'll give me a call when his friend's got the money but that he's definitely buying before the end of the week
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['1.0', '0.64', '0.0']
+Message: lolololol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97560406  0.02209841  0.00229751]
+API Probs: ['0.3275', '0.46875', '0.378125']
+Message: Dude avatar 3d was imp. At one point i thought there were actually flies in the room and almost tried hittng one as a reflex
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.98568201  0.01238257  0.00193543]
+API Probs: [0.0, 0.0, 0.0]
+Message: It wont b until 2.15 as trying 2 sort house out, is that ok?
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.88905430e-01   1.01919621e-02   9.02625383e-04]
+API Probs: ['0.161818181818', '0.235', '0.146363636364']
+Message: Thanks! BTW, I also contacted Kesmond Yow on some other Villa Verdeunits.  It seems that he may have other units you might not haveaccess to?  We just want to have a more complete picture before makingan offer.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99987841e-01   1.03447510e-05   1.81873418e-06]
+API Probs: ['0.263333333333', '0.276666666667', '0.135']
+Message: Lol ok. I'll snatch her purse too.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.35641026  0.62972194  0.01386776]
+API Probs: ['0.1825', '0.1975', '0.2125']
+Message: Heyyo how go Spencer hse
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.63496363  0.35445923  0.01057715]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hmft
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96761912  0.02972648  0.00265439]
+API Probs: ['0.62', '0.97', '0.44']
+Message: yea where is it at
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98238981  0.00964026  0.00796994]
+API Probs: ['0.00285714285714', '0.00428571428571', '0.00285714285714']
+Message: Yoo silly! Luv ya much, lil sis.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99759018e-01   2.06973185e-04   3.39933249e-05]
+API Probs: ['0.215555555556', '0.265555555556', '0.135555555556']
+Message: I have lots of dishes to do to! I'm so excited. This will be a                                    weekend of productivity.
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98068750e-01   1.35049305e-03   5.80737949e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Maybe i could get book out tomo then return it immediately ..? Or something.
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44774991  0.5378257   0.01442441]
+API Probs: ['0.194', '0.344', '0.22']
+Message: Haha^^ goodnight dear ryan v^^
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99495578  0.00393397  0.00111026]
+API Probs: ['0.306666666667', '0.333333333333', '0.233333333333']
+Message: Well then you have a great weekend!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95582342e-01   4.12936509e-03   2.88279145e-04]
+API Probs: ['0.294545454545', '0.350909090909', '0.242727272727']
+Message: Yes but u need to marry me first. I'm not quitting til I get married!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.49160013  0.50542873  0.00297111]
+API Probs: ['0.27', '0.27', '0.44']
+Message: no problem
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97029603e-01   2.91661918e-03   5.37611959e-05]
+API Probs: ['0.36375', '0.4325', '0.2']
+Message: HahaThere was some dude next to me who kept blurting dumb shit out -.-
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.26598328  0.71635687  0.01765986]
+API Probs: ['0.133333333333', '0.156666666667', '0.105']
+Message: Wake up already. Now still lying on my bed.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98229545  0.00404281  0.01366175]
+API Probs: ['0.201363636364', '0.259545454545', '0.186136363636']
+Message: Stewart, a few other things. First, can I have the contact details ofthe owner?  I need to arrange a few dates for the renovation teams tocome look at the site to the design proposals.  Second, we haveapplied to the banks and hope to have a decision by Wednesday,  but Imay not be free on Thursday to go to the law offices.  By when do Ineed to tell you the law firm that we'll be using?  Appreciate if youcan call me back to advise.  Thanks!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91139019  0.08477286  0.00383693]
+API Probs: ['0.1475', '0.25', '0.21']
+Message: Chilling... sleepy xP sup?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.04189529  0.94242519  0.01567949]
+API Probs: ['0.39', '0.25', '0.381666666667']
+Message: chou de.. still dunwan sleep ar?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.70269865  0.29315907  0.00414227]
+API Probs: ['0.08', '0.135', '0.09']
+Message: Hws angie
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99822080e-01   1.59090851e-04   1.88256618e-05]
+API Probs: ['0.174117647059', '0.231764705882', '0.241764705882']
+Message: Pls give her the food preferably pap very slowly with loads of sugar. You can take up to an hour to give it. And then some water. Very very slowly.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.66252053  0.33176139  0.0057181 ]
+API Probs: ['0.43', '0.601666666667', '0.43']
+Message: I am literally in bed and have been up for like  <#>  hours
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99957681e-01   3.89064480e-05   3.40072916e-06]
+API Probs: ['0.432857142857', '0.542857142857', '0.36']
+Message: Then get some cash together and I'll text jason
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.71837765  0.27759501  0.00402734]
+API Probs: ['0.0666666666667', '0.11', '0.16']
+Message: A reclusive prick?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98919427e-01   9.77410702e-04   1.03189705e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Have you heard about that job? I'm going to that wildlife talk again tonight if u want2come. Its that2worzels and a wizzle or whatever it is?!
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.29756746  0.68883014  0.01360242]
+API Probs: ['0.0', '0.005', '0.0']
+Message: Fvbbbbbb at xx
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97573495e-01   2.11391598e-03   3.12611170e-04]
+API Probs: ['0.148571428571', '0.207142857143', '0.194285714286']
+Message: That's what I love to hear :V see you sundayish, then
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92141962e-01   7.52124889e-03   3.36807425e-04]
+API Probs: ['0.151428571429', '0.194285714286', '0.188571428571']
+Message: Dawson thank you! You're a crazy sprinter :O
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.4122377   0.58281344  0.00494889]
+API Probs: ['0.1', '0.11', '0.195']
+Message: how the module ?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.80962974  0.18696062  0.00340965]
+API Probs: ['0.28', '0.333333333333', '0.156666666667']
+Message: How much is the copy?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.38286763  0.59851342  0.01861895]
+API Probs: ['0.0', '0.0', '0.0']
+Message: I'M NOT GETTING IT YET AND SHE DOESN'T WANT TO TELL ME
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.86942410e-01   1.23328632e-02   7.24729849e-04]
+API Probs: ['0.345', '0.42', '0.2725']
+Message: Yo sorry was in the shower sup
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99043673  0.00834961  0.00121367]
+API Probs: ['0.306153846154', '0.389230769231', '0.295384615385']
+Message: Just chill for another 6hrs. If you could sleep the pain is not a surgical emergency so see how it unfolds. Okay
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96557891e-01   3.32606584e-03   1.16065581e-04]
+API Probs: ['0.247777777778', '0.301111111111', '0.248888888889']
+Message: Hello hello my loff! I'm in the library making copies of the opera :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96321678e-01   3.56425601e-03   1.14043789e-04]
+API Probs: ['0.213333333333', '0.280833333333', '0.130833333333']
+Message: Totally! They just want as much memorized as possible tonight because                             we're staging. I gots it :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.85357046e-01   1.41849052e-02   4.58034745e-04]
+API Probs: ['0.17', '0.185714285714', '0.161428571429']
+Message: I am great princess! What are you thinking about me? :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.64254284  0.3458465   0.01161065]
+API Probs: ['0.124444444444', '0.231111111111', '0.144444444444']
+Message: Sedona, AZ is supposed to be one of the best. They even have star-gazing tourss!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.32291496  0.63139558  0.04568942]
+API Probs: ['0.1', '0.0966666666667', '0.103333333333']
+Message: Yeah the stuff is in lab
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: 不是啦，觉得那句话用华语来说比较有意吗！哈哈哈冷笑﹏ 可以去关心你的家人！晚安！朗星！哈哈！
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88502389  0.11214889  0.00282722]
+API Probs: ['0.555', '0.725', '0.64']
+Message: see you later
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9231379   0.07099685  0.00586524]
+API Probs: ['0.14', '0.206666666667', '0.166666666667']
+Message: I know right!!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98353845  0.00976511  0.00669645]
+API Probs: ['0.193333333333', '0.298333333333', '0.243333333333']
+Message: Oh man. Did she bring the law suit?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.86854351  0.12983741  0.0016191 ]
+API Probs: ['0.0785714285714', '0.0942857142857', '0.0814285714286']
+Message: It's a man's world...even I hate women lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89824855  0.09642989  0.00532154]
+API Probs: ['0.234285714286', '0.275714285714', '0.181428571429']
+Message: Yes, would you be free to come up around 4pm on Saturday?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95201230e-01   4.57188906e-03   2.26908523e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: "Anymore"?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99215025  0.00443513  0.00341462]
+API Probs: ['0.09', '0.106923076923', '0.0738461538462']
+Message: Hi Yipeng, are you with Low Wee and Shawn?  We are at Lot 1 already,just want to check on your ETA.  Thanks!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95669419  0.04000447  0.00330133]
+API Probs: ['0.145', '0.235', '0.1525']
+Message: Btw, guess who was in the elevator with me this morning?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95645583e-01   3.45022720e-03   9.04167246e-04]
+API Probs: ['0.229090909091', '0.200909090909', '0.198181818182']
+Message: Ooh u slept in huh. Make those tips! We got lotto tickets to buy!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92739856e-01   7.03682378e-03   2.23340874e-04]
+API Probs: ['0.167777777778', '0.242222222222', '0.12']
+Message: Did u turn on the heater? The heater was on and set to <#> degrees.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99725699e-01   2.65006645e-04   9.31250906e-06]
+API Probs: ['0.244285714286', '0.295714285714', '0.204285714286']
+Message: Alright haha... that is, if the bus ever comes =P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91786814  0.07859129  0.0035406 ]
+API Probs: ['0.39', '0.455', '0.365']
+Message: That means get the door
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.67024916  0.32266262  0.00708824]
+API Probs: ['0.2425', '0.25', '0.25']
+Message: Did Mark switch classes?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95287544  0.04291395  0.00421061]
+API Probs: ['0.273333333333', '0.0833333333333', '0.0533333333333']
+Message: Still will be a while. Pork for porrodge not cooked yet.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.34792608  0.64770991  0.00436404]
+API Probs: ['0.333333333333', '0.07', '0.06']
+Message: Yup next stop.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98461485e-01   1.14386366e-03   3.94659291e-04]
+API Probs: ['0.28', '0.388', '0.272']
+Message: Yeah my usual guy's out of town but there're definitely people around I know
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.65799099  0.33163017  0.01037882]
+API Probs: ['0.41', '0.435', '0.38']
+Message: Bring it if you got it
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9748829   0.02285457  0.00226252]
+API Probs: ['0.2025', '0.1575', '0.1375']
+Message: Should I be stalking u?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99961913e-01   3.36433586e-05   4.45482146e-06]
+API Probs: ['0.277857142857', '0.302857142857', '0.247857142857']
+Message: My stomach has been thru so much trauma I swear I just can't eat. I better lose weight.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.33271706  0.65331984  0.01396311]
+API Probs: ['0.0', '0.0', '0.0']
+Message: AND BRENDAN'S FOR THAT MAYER
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99453646  0.00424449  0.00121904]
+API Probs: ['0.263333333333', '0.43', '0.195']
+Message: I really don't blame you, having to be in the middle of all that
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.22079234  0.76667976  0.01252787]
+API Probs: ['0.26', '0.234285714286', '0.282857142857']
+Message: m so sweet rite.. i bought choc cake for xin, yummy..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99797940e-01   1.82134274e-04   1.99278984e-05]
+API Probs: ['0.425454545455', '0.44', '0.355454545455']
+Message: Sure but since my parents will be working on Tuesday I don't really need a cover story
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.12598214  0.84196907  0.03204877]
+API Probs: ['0.122', '0.234', '0.143']
+Message: Though I cannot see the pic from ur message, happy mid autumn:-)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97655749e-01   2.14777677e-03   1.96469817e-04]
+API Probs: ['0.113333333333', '0.333333333333', '0.176666666667']
+Message: Was it just the usual drama?
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.00772337  0.02351948  0.96875715]
+API Probs: ['0.221428571429', '0.251428571429', '0.318571428571']
+Message: I msg he nvr reply yet. He when back
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98266578e-01   1.62773347e-03   1.05703744e-04]
+API Probs: ['0.49', '0.556666666667', '0.323333333333']
+Message: Here, get the door
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.14878833  0.83935666  0.01185499]
+API Probs: ['0.1425', '0.16125', '0.10875']
+Message: Okok. But after I watch finish my show. Later then create.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99110520e-01   8.35521962e-04   5.39506254e-05]
+API Probs: ['0.205416666667', '0.291666666667', '0.182916666667']
+Message: wow. You're right! I didn't mean to do that. I guess once i gave up on boston men and changed my search location to nyc, something changed. Cuz on my signin page it still says boston.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99859750e-01   1.30706088e-04   9.54387087e-06]
+API Probs: ['0.208', '0.235', '0.181']
+Message: YES!  We should all have dinner! I miss you despite the fact thatyou're crazy =P
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.4351345   0.55828309  0.00658243]
+API Probs: ['0.0', '0.0', '0.0']
+Message: s is gd.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99138236e-01   7.90356542e-04   7.14359703e-05]
+API Probs: ['0.384545454545', '0.478181818182', '0.290909090909']
+Message: In fact when do you leave? I think addie goes back to school tues or wed
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.52840376  0.45788586  0.01371037]
+API Probs: ['0.105', '0.155', '0.125']
+Message: I don't know arrrgghh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95609581  0.04123448  0.00266969]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Goddamned signal!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99485254e-01   4.51723550e-04   6.30385402e-05]
+API Probs: ['0.514166666667', '0.55', '0.431666666667']
+Message: And stop being an old man. You get to build snowman snow angels and snowball fights.
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99068797e-01   6.66925509e-04   2.64284521e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Pansy! You've been living in a jungle for two years! Its my driving you should be more worried about!
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.97587299  0.01921056  0.00491648]
+API Probs: [0.0, 0.0, 0.0]
+Message: Rightio. 11.48 it is then. Well arent we all up bright and early this morning.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.81793159  0.16691703  0.0151514 ]
+API Probs: ['0.056', '0.06', '0.082']
+Message: Alright I will, I love you
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99252319e-01   7.08476291e-04   3.92095790e-05]
+API Probs: ['0.204615384615', '0.252307692308', '0.185384615385']
+Message: Chocolate! Hey do  you have any idea where my hard drive is? It has acopy of one of my plays and some pictures I need
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97321486e-01   2.47980561e-03   1.98736001e-04]
+API Probs: ['0.265', '0.335', '0.278333333333']
+Message: Yes! I'm already losing my hair :(
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.50176847  0.42132437  0.07690717]
+API Probs: ['0.11', '0.05', '0.245']
+Message: cant decide what to do
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.36300185  0.53402269  0.10297547]
+API Probs: ['0.145454545455', '0.122727272727', '0.16']
+Message: Oh can. For the charges, you can contact sheena. I think she alreadysettled the charges right?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91676116  0.07870898  0.00452986]
+API Probs: ['0.19', '0.315', '0.1925']
+Message: That's totes fine yo!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94768673  0.05067599  0.0016373 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: SHE'S GONNA SUE ME
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95662379  0.04075114  0.00262507]
+API Probs: ['0.0533333333333', '0.09', '0.0733333333333']
+Message: Yes, its here.  Thanks for checking in. :-)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92767626  0.06921621  0.00310752]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ahhhhhhhhhhhhh Noooooooooooo Dooooooooooon't
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.08788281  0.89363652  0.01848067]
+API Probs: ['0.288333333333', '0.243333333333', '0.156666666667']
+Message: What time? I need to practice for soccer
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95629424  0.03351582  0.01018996]
+API Probs: ['0.22375', '0.2875', '0.2025']
+Message: Just do you know, we're safe and home now, love ya
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97927785e-01   1.88708783e-03   1.85104451e-04]
+API Probs: ['0.2416', '0.3636', '0.1696']
+Message: It doesn't mind cc or c# or #c but doesn't want ccc. The direction isthe main point. It takes the right most cc or c# and schwas it off andthen from there keeps going in groups of two until there are no more
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.72173715  0.27116624  0.00709664]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Next to Walgreens
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.18374223  0.75717211  0.05908565]
+API Probs: ['0.34625', '0.33375', '0.37625']
+Message: Lol must be you eat so slow that you felt nothing was in your stomach. XD
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99731064e-01   2.12738421e-04   5.61829256e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: Kind of. Just missed train cos of asthma attack, nxt one in half hr so driving in. not sure where to park.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98905301e-01   1.02004316e-03   7.46666410e-05]
+API Probs: ['0.2125', '0.326666666667', '0.331666666667']
+Message: The bug guy came and said we can't go in for  <#>  hours soooo uh don't
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2417987   0.75559682  0.00260448]
+API Probs: ['0.311176470588', '0.421764705882', '0.313529411765']
+Message: oh ya.. btw i think need to check if the first mobile phone got useic or not. It was invented ard  <#> ..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.71793473e-01   2.74715647e-02   7.34937028e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hi shir, I'm here.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95874363  0.03425627  0.00700013]
+API Probs: ['0.0875', '0.1125', '0.0625']
+Message: Well she's in for a big surprise!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85080105  0.13899848  0.01020044]
+API Probs: ['0.0', '0.0', '0.0']
+Message: What's your address?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89057422  0.1070861   0.0023397 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hokay =D
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.76527411  0.2295434   0.00518246]
+API Probs: ['0.266666666667', '0.313333333333', '0.21']
+Message: Yo you still awake?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92927378  0.06088991  0.00983632]
+API Probs: ['0.2275', '0.295', '0.2325']
+Message: Where u been hiding stranger?
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99500692e-01   3.98815057e-04   1.00496392e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: happened here while you were adventuring
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.81808656  0.12778333  0.05413011]
+API Probs: ['0.314285714286', '0.322857142857', '0.171428571429']
+Message: Okay cool. That'll give me plenty of time to finish
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.87513661e-01   1.20728053e-02   4.13509144e-04]
+API Probs: ['0.498', '0.442', '0.268']
+Message: Yo im right by yo work
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96938878  0.0204596   0.01015161]
+API Probs: ['0.245294117647', '0.311764705882', '0.244117647059']
+Message: The first one. The second one wasn't a pharmacy tech one after all. And the manager seemed out of it. Go figure.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.12374853  0.86995417  0.00629729]
+API Probs: ['0.25', '0.0425', '0.1125']
+Message: <#> pm for lunch. :D
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99750435e-01   1.77918060e-04   7.16440773e-05]
+API Probs: ['0.238461538462', '0.303076923077', '0.276153846154']
+Message: Hi, can i please get a  <#>  dollar loan from you. I.ll pay you back by mid february. Pls.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99955773e-01   4.39403666e-05   3.15416997e-07]
+API Probs: ['0.155', '0.221666666667', '0.121666666667']
+Message: Hahah that would be funny. Post tons of pics too
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.8040573   0.15921234  0.03673038]
+API Probs: ['0.214', '0.221', '0.227']
+Message: What's happening with you. Have you gotten a job and have you begun registration for permanent residency
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02812396  0.01153606  0.96033996]
+API Probs: ['0.287142857143', '0.27', '0.258571428571']
+Message: haiyah... Ü nvr call us to watch with you?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.11646764  0.8787154   0.00481695]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Subsidy? For the module? o.O
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Brt
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.5851438   0.39891526  0.01594091]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Sure! When can you?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94864523e-01   4.31759469e-03   8.17902910e-04]
+API Probs: ['0.0866666666667', '0.1', '0.136666666667']
+Message: Wishing you a wonderful week.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98029339  0.01762217  0.00208445]
+API Probs: ['0.0675', '0.155', '0.1625']
+Message: Yay! Thanks a lot btw
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97655094  0.02076643  0.00268263]
+API Probs: ['0.327142857143', '0.338571428571', '0.294285714286']
+Message: yes baby! I need to stretch open your pussy!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97440755e-01   2.09238287e-03   4.66838595e-04]
+API Probs: ['0.136666666667', '0.115', '0.146666666667']
+Message: No prob. I see you ll be here in 2 mins
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94452143  0.04906039  0.0064182 ]
+API Probs: ['0.17375', '0.22375', '0.31875']
+Message: Yeah, I don't wanna make you stop your game haha
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.81209469  0.18168527  0.00622007]
+API Probs: ['0.0', '0.0', '0.0']
+Message: YES!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.60864502  0.37639272  0.01496225]
+API Probs: ['0.23', '0.3475', '0.175']
+Message: But I want pizza
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40857381  0.55782324  0.03360294]
+API Probs: ['0.26', '0.256', '0.2']
+Message: Okay. Then dont be late ah
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.45570591  0.46301544  0.08127865]
+API Probs: ['0.14', '0.13', '0.0966666666667']
+Message: Oh if you want to then!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92150402  0.07323562  0.00526033]
+API Probs: ['0.374', '0.448', '0.318']
+Message: Bleh still had to give a urine sample.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99869883e-01   1.22065314e-04   8.06766639e-06]
+API Probs: ['0.149090909091', '0.212727272727', '0.144545454545']
+Message: Woah that's so awesome! I forgot :) tell Ruby I say hi!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.48941907  0.47553819  0.03504272]
+API Probs: ['0.336428571429', '0.395714285714', '0.293571428571']
+Message: I got like $ <#> , I can get some more later though. Get whatever you feel like
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02298583  0.13323843  0.84377575]
+API Probs: ['0.3375', '0.415', '0.2675']
+Message: Physics tested till where ar
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97687280e-01   1.97413517e-03   3.38608224e-04]
+API Probs: ['0.366', '0.358', '0.53']
+Message: Have a safe trip to Nigeria. Wish you happiness and very soon company to share moments with
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41945371  0.56943154  0.01111474]
+API Probs: ['0.11', '0.11', '0.123333333333']
+Message: ok.. when is your chemistry paper?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.76143622  0.23165323  0.00691057]
+API Probs: ['0.0', '0.0', '0.0']
+Message: WHORE YOU ARE UNBELIEVABLE.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99109149e-01   8.05208576e-04   8.56133192e-05]
+API Probs: ['0.325555555556', '0.352777777778', '0.2425']
+Message: see, i knew giving you a break a few times woul lead to you always wanting to miss curfew. I was gonna gibe you 'til one, but a MIDNIGHT movie is not gonna get out til after 2. You need to come home. You need to getsleep and, if anything, you need to b studdying ear training.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92412847  0.07454475  0.00132676]
+API Probs: ['0.062', '0.052', '0.094']
+Message: Yes. It's all innocent fun. O:-)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.7161783   0.26903933  0.01478237]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Love you more
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98849511e-01   8.95125908e-04   2.55379098e-04]
+API Probs: ['0.37', '0.3575', '0.35']
+Message: Yo carlos, a few friends are already asking me about you, you working at all this weekend?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24531776  0.73481405  0.01986816]
+API Probs: ['0.0733333333333', '0.0633333333333', '0.08']
+Message: Dont have features leh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99574840e-01   3.53118259e-04   7.20624739e-05]
+API Probs: ['0.258333333333', '0.256666666667', '0.188333333333']
+Message: K I'm leaving soon, be there a little after 9
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93595111  0.0614522   0.00259671]
+API Probs: ['0.486', '0.556', '0.36']
+Message: I'm also thinking of going blonde
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98554671  0.01277538  0.00167793]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Cause Fakir is in it =D
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.33839434  0.65539199  0.00621364]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Who is this
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99971449e-01   2.81580506e-05   4.20070961e-07]
+API Probs: ['0.286363636364', '0.346363636364', '0.258181818182']
+Message: Dont know supports ass and srt i thnk. I think ps3 can play through usb too
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97135162  0.02687855  0.00176982]
+API Probs: ['0.0', '0.0', '0.0']
+Message: You're welcome!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95941699e-01   3.46024032e-03   5.98066079e-04]
+API Probs: ['0.42', '0.411428571429', '0.372857142857']
+Message: After tomorrow morning the rest of this week will be unbelievably relaxing!
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99584854e-01   3.88846151e-04   2.63136444e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: I take it the post has come then! You must have 1000s of texts now! Happy reading. My one from wiv hello caroline at the end is my favourite. Bless him
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99644578e-01   3.03404813e-04   5.19898203e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: Great escape. I fancy the bridge but needs her lager. See you tomo
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98375833e-01   1.47462520e-03   1.49536718e-04]
+API Probs: ['0.380769230769', '0.409230769231', '0.426153846154']
+Message: Anyway seriously hit me up when you're back because otherwise I have to light up with armand and he always has shit and/or is vomiting
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99775231e-01   2.12454441e-04   1.23235714e-05]
+API Probs: ['0.236153846154', '0.266153846154', '0.234615384615']
+Message: Thanks love.. I think I left my wallet at home. If not, it's fucking gone
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97483373e-01   2.47619976e-03   4.04560742e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ho -.-
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98985255  0.00612216  0.00402532]
+API Probs: ['0.1975', '0.24', '0.17']
+Message: Oh okay! We just got and are headed back. I'll text you then
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: To*
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.18932246  0.27132347  0.53935409]
+API Probs: ['0.504285714286', '0.497142857143', '0.451428571429']
+Message: last night I called you, but you switch off fon.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.74811476  0.23868583  0.01319941]
+API Probs: ['0.284285714286', '0.357142857143', '0.34']
+Message: Oh ok cause I'm gonna go sleep on them
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.28033859  0.71284139  0.00682002]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Know we did it?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99870241e-01   1.11706337e-04   1.80588431e-05]
+API Probs: ['0.153529411765', '0.182941176471', '0.114117647059']
+Message: Hi Colin, hope to see you at The Warren in about an hour?  It's ok ifyou will be late, just let us know.  Thanks, Min from the Warren.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94072837  0.05479698  0.00447467]
+API Probs: ['0.0', '0.0', '0.0']
+Message: What will we do in the shower, baby?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.45708922  0.53181005  0.01110076]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ya wan?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99654651e-01   3.07203387e-04   3.81678328e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: "Not really"
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95657682e-01   3.44434963e-03   8.97961902e-04]
+API Probs: ['0.201428571429', '0.198571428571', '0.168571428571']
+Message: I definitely know what you mean. Oh my bookey bear!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88644952  0.11184464  0.00170583]
+API Probs: ['0.0', '0.0', '0.0']
+Message: No luck?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41521877  0.45677245  0.12800878]
+API Probs: ['0.024', '0.036', '0.032']
+Message: Ya that's what I was indicating in the email.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: 5:45PM
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99207228  0.00674637  0.00118137]
+API Probs: ['0.3125', '0.5625', '0.3675']
+Message: Me, i dont know again oh
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99442756e-01   5.08162309e-04   4.90878847e-05]
+API Probs: ['0.384444444444', '0.388888888889', '0.421111111111']
+Message: Yo can you get one of those long lighters by chance? Our pilot light is out
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.90841651  0.08958358  0.00199992]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Why?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.78299344  0.21064338  0.0063632 ]
+API Probs: ['0.326363636364', '0.315454545455', '0.240909090909']
+Message: Take something for pain. If it moves however to any side in the next 6hrs see a doctor.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93025619  0.06782172  0.00192212]
+API Probs: ['0.06', '0.116666666667', '0.09']
+Message: No answer =/
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99648750e-01   2.96460785e-04   5.47950367e-05]
+API Probs: ['0.185', '0.271', '0.13']
+Message: Ok your scaring me. U usually kick me outta bed. What's the deal?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.80794346  0.17399733  0.01805923]
+API Probs: ['0.12', '0.156666666667', '0.113333333333']
+Message: Aight, can you text me the address?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95549917e-01   4.12431080e-03   3.25749657e-04]
+API Probs: ['0.216666666667', '0.234444444444', '0.221111111111']
+Message: Ohhh that's the one Johnson told us about...can you send it to me?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97523189e-01   2.02741940e-03   4.49379906e-04]
+API Probs: ['0.136666666667', '0.108888888889', '0.161111111111']
+Message: I'm parked on the satay side.  Just come oh, when you're done.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.11538983  0.87860942  0.00600075]
+API Probs: ['0.404285714286', '0.404285714286', '0.265714285714']
+Message: Ps jus saw the quest  <#> mins ago
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85708618  0.01405824  0.12885559]
+API Probs: ['0.268333333333', '0.279166666667', '0.2375']
+Message: I love to give massages. I use lots of baby oil... What is your fave position?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97959554  0.01886433  0.00154014]
+API Probs: ['0.133333333333', '0.191666666667', '0.305']
+Message: I have to memorize ze magic flute :"(
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.93061423e-01   6.67462777e-03   2.63966125e-04]
+API Probs: ['0.6225', '0.52', '0.26']
+Message: Im walking by yo work
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.01741315  0.97970581  0.00288104]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Msg 1490: from <df501e0b21bc88cc1e464dd95bf722da8865851c93267498> , to<250c5bf324c49948a409ec3a79628cfa> , "2010.11.21 10:01:29
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97680843e-01   2.22496362e-03   9.41748222e-05]
+API Probs: ['0.274444444444', '0.231111111111', '0.18']
+Message: I am taking you for italian food. How about a pretty dress with no panties? :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98947382e-01   8.74155841e-04   1.78464979e-04]
+API Probs: ['0.1025', '0.148333333333', '0.108333333333']
+Message: Go run after them and yell YOUR TIPS SUCK YOU CHEAP BITCHES! While shaking your fist.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96798992e-01   2.41838070e-03   7.82628893e-04]
+API Probs: ['0.251666666667', '0.345833333333', '0.2125']
+Message: Yo! Just wanted  to remind you about the hard drive if you get achance anytime soon! Love ya!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95750964e-01   3.67433787e-03   5.74721431e-04]
+API Probs: ['0.327857142857', '0.369285714286', '0.268571428571']
+Message: I would but I'm still cozy. And exhausted from last night.nobody went to school or work. Everything is closed.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.6088078   0.38582996  0.00536223]
+API Probs: ['0.1225', '0.135', '0.19']
+Message: Hey love sorry =(
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.75584036  0.2402332   0.00392645]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Fffff
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85523516  0.14318196  0.0015829 ]
+API Probs: ['0.164285714286', '0.195714285714', '0.164285714286']
+Message: I was just watching the part where Uzura cries about Duck =(((((
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.4913809   0.48778442  0.02083468]
+API Probs: ['0.2', '0.25', '0.175']
+Message: Did you find your cards and id?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97189671  0.02597076  0.00213254]
+API Probs: ['0.39375', '0.49125', '0.32125']
+Message: That was random saw my old roomate on campus. He graduated
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99952435e-01   4.10184366e-05   6.55034364e-06]
+API Probs: ['0.146875', '0.233125', '0.135']
+Message: Missed your call cause I was yelling at scrappy. Miss u. Can't wait for u to come home. I'm so lonely today.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.25286946  0.72355342  0.02357711]
+API Probs: ['0.3775', '0.3325', '0.3125']
+Message: Are we going to the airport soon?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95743632e-01   3.83932516e-03   4.17046831e-04]
+API Probs: ['0.246', '0.3', '0.18']
+Message: Leaving now, getting there around sixish
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.38913894  0.60235232  0.00850876]
+API Probs: ['0.122857142857', '0.232857142857', '0.134285714286']
+Message: Haha sorry>< it's okay de right? ><
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99385655e-01   3.21341766e-04   2.93000747e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Ah, well that confuses things, doesnt it? I thought was friends with now. Maybe i did the wrong thing but i already sort of invited -tho he may not come cos of money.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99889433e-01   1.02546328e-04   8.03782677e-06]
+API Probs: ['0.423529411765', '0.483529411765', '0.365588235294']
+Message: They found a way to change the item they put in trade to look like an <#> costume. Your really getting a bikini bottom or something cheap. But on your end it will show up as the right costume. Ppl have been making threads about it on the forums for weeks now. Ninjas just close them and say they are false rumors.
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.95867670e-01   3.68004129e-03   4.52315377e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Kinda. First one gets in at twelve! Aah. Speak tomo
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.54204029  0.24783587  0.21012384]
+API Probs: ['0.0722222222222', '0.0866666666667', '0.08']
+Message: Not yet. At punggol. Still in cab.  Sleep well honey.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92862695  0.06234968  0.00902339]
+API Probs: ['0.36875', '0.36625', '0.2625']
+Message: <<<<< <#>  do you need me to get the game of thrones episodes for you?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.29626244  0.69964176  0.00409582]
+API Probs: ['0.0', '0.0', '0.0']
+Message: I suck.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99509990e-01   4.43245488e-04   4.67490609e-05]
+API Probs: ['0.06125', '0.068125', '0.069375']
+Message: Caw caw.. hey, you have  <#>  posts! But yeah, poor musicals =/ Ijust don't understand why it's so hard to do them -.-
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.59414542e-01   3.99560146e-02   6.29456481e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Guitar: Quentyn
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96822953e-01   2.91182101e-03   2.65238516e-04]
+API Probs: ['0.175', '0.2375', '0.345']
+Message: She gon come soon
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.41948995  0.43641245  0.14409761]
+API Probs: ['0.168333333333', '0.1', '0.075']
+Message: Jeff ok, so ur house or my house?? Hehe
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92439210e-01   6.58521708e-03   9.75571922e-04]
+API Probs: ['0.391666666667', '0.355', '0.303333333333']
+Message: She's following me!! She's going to the lavender ling thing so don'tgive her reason to stay lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88020527  0.11736316  0.00243153]
+API Probs: ['0.204', '0.23', '0.12']
+Message: I'm omw now, be there a little after  <#>
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.37020844  0.45972419  0.17006738]
+API Probs: ['0.261052631579', '0.276315789474', '0.237894736842']
+Message: I'm Joel. Phone no money so nid u bring phone card from mom to me.Meet under hostel, I'll use this phone to call u nearing the time.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99954939e-01   4.46276972e-05   4.24742524e-07]
+API Probs: ['0.0', '0.0', '0.0']
+Message: SP <#>  CMD=REGISTER;ID=4;IMEI= <#> ;SIM= <#> ;MCC= <#> ;MNC= <#> ;
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99463272  0.00364709  0.00172018]
+API Probs: ['0.246666666667', '0.252857142857', '0.317142857143']
+Message: hi Ricky, please don't try to cash the cheque I gave you yesterdayuntil Friday.  I haven't yet had the time to transfer monies into thechecking  account yet.  Thanks!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92504776e-01   6.73960568e-03   7.55617104e-04]
+API Probs: ['0.12', '0.143333333333', '0.143333333333']
+Message: As in different styles?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.56570184  0.39788863  0.03640954]
+API Probs: ['0.2925', '0.3875', '0.405']
+Message: Not the equipment, a switch just had to be flipped
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.43821862  0.48617333  0.07560804]
+API Probs: ['0.37', '0.36', '0.326666666667']
+Message: erm haven settle the time yet. but i'll,try to keep  <#>  to 1 free
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.60270381  0.36581671  0.0314795 ]
+API Probs: ['0.326666666667', '0.388333333333', '0.326666666667']
+Message: You can jot down things you want to remember later.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.83105958e-01   1.61067210e-02   7.87312805e-04]
+API Probs: ['0.37', '0.425', '0.5']
+Message: Sittin in my cubicle
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.78817761  0.2104084   0.001414  ]
+API Probs: ['0.045', '0.06', '0.195']
+Message: Yeah haha
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98993719  0.0081848   0.00187804]
+API Probs: ['0.323333333333', '0.423333333333', '0.24']
+Message: Headed that way from campus now
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.79480892  0.20171008  0.003481  ]
+API Probs: ['0.15', '0.16', '0.5']
+Message: Haha, be there soon
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99966681e-01   2.91110118e-05   4.22155927e-06]
+API Probs: ['0.111818181818', '0.182727272727', '0.128181818182']
+Message: Guess you're out to lunch.  I should be in the office later. Sorry tomiss you, had an appointment downstairs.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99682248e-01   2.77704035e-04   4.00331264e-05]
+API Probs: ['0.154615384615', '0.226923076923', '0.147692307692']
+Message: Hi Huy, philip is already there on the fourth floor.  You may want togo over to Com1 to talk instead.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.28967738  0.6947006   0.01562203]
+API Probs: ['0.273333333333', '0.385', '0.221666666667']
+Message: How r ü going to send it to me?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96497393e-01   2.89099943e-03   6.11623109e-04]
+API Probs: ['0.175625', '0.17875', '0.145625']
+Message: Ditto. And you won't have to worry about me saying ANYTHING to you anymore. Like i said last night, you do whatever you want and i'll do the same. Peace.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.28307292  0.6954034   0.02152371]
+API Probs: ['0.26', '0.313333333333', '0.313333333333']
+Message: Erm..Friday free ma..Want to meet for dinner ma..Hehe...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.61915612e-01   3.73299420e-02   7.54452252e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ohhhh
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.98336411  0.01387037  0.0027655 ]
+API Probs: [0.0, 0.0, 0.0]
+Message: Well. You know what i mean. Texting
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85931265  0.12667076  0.01401659]
+API Probs: ['0.136', '0.224', '0.11']
+Message: Thanks for ve lovely wisheds. You rock
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96159399  0.03095382  0.00745219]
+API Probs: ['0.222222222222', '0.258888888889', '0.212222222222']
+Message: Alright. I'm on campus til 7, I could grab it from you if you want
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97436684  0.02166065  0.00397252]
+API Probs: ['0.271428571429', '0.158571428571', '0.335714285714']
+Message: Hi, thanks.  Ill try to stop by b4 5pm
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95528519e-01   3.85613111e-03   6.15349447e-04]
+API Probs: ['0.234', '0.233', '0.169']
+Message: Hope you are having a great new semester. Do wish you the very best. You are made for greatness.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.83527559  0.16002476  0.00469968]
+API Probs: ['0.235', '0.321666666667', '0.178333333333']
+Message: It's the Torr family talking about penises :P
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98814642e-01   7.99976115e-04   3.85356718e-04]
+API Probs: ['0.68125', '0.64625', '0.5125']
+Message: So are you guys asking that i get that slippers again or its gone with last year
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98793048  0.00953865  0.00253089]
+API Probs: ['0.208947368421', '0.224736842105', '0.201052631579']
+Message: Hi Ricky, we just discussed about the house number, and we'd like itto be gold in color.  If it cannot be done in gold, please leave thenumber as is.  Thanks.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99083459e-01   8.41242378e-04   7.52920969e-05]
+API Probs: ['0.129090909091', '0.152727272727', '0.116363636364']
+Message: Please start if hungry. Only leaving school soon. Trying to finishediting one part.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.93145466e-01   6.70523103e-03   1.49307467e-04]
+API Probs: ['0.306', '0.516', '0.416']
+Message: Sitting near the dry provisions shop
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97460604e-01   1.61940348e-03   9.19972139e-04]
+API Probs: ['0.125', '0.1725', '0.1975']
+Message: Just wondering, the others just took off
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.47228187  0.51720887  0.01050921]
+API Probs: ['0.406', '0.388', '0.436']
+Message: eh.. need to buy ticket ah
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99201971  0.00676933  0.00121098]
+API Probs: ['0.17', '0.199166666667', '0.126666666667']
+Message: Hey, everything seems okay.. I kind you so much mom. The Boston stuffseems to have calmed
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99482453e-01   5.14337153e-04   3.18457091e-06]
+API Probs: ['0.365', '0.5', '0.285']
+Message: Haha i think i did too
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99601662e-01   3.66989610e-04   3.13670171e-05]
+API Probs: ['0.262195121951', '0.276097560976', '0.228292682927']
+Message: Hi Ricky, thanks for your SMS reply. Sorry I've been unable to replyearlier. Our budget is about  <#> k, and we'd like to do up the frontof the house (outside gate) too.  Would a less expensive material workfor the roof?  Out of all the proposals,  we liked yours best and feelmost comfortable working with you.  Could we meet up this week tobring your proposal closer to a contract?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99144614e-01   6.92305330e-04   1.63109988e-04]
+API Probs: ['0.0525', '0.0725', '0.07375']
+Message: At crystal.jade already seated. Andrew here. Take your time.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.84165013e-01   1.52573129e-02   5.77672268e-04]
+API Probs: ['0.122', '0.222', '0.184']
+Message: Oooone sec.. roommate stuff yo
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94341373e-01   5.63495280e-03   2.36609594e-05]
+API Probs: ['0.055', '0.05', '0.045']
+Message: <#> k
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.7061289   0.28577542  0.00809566]
+API Probs: ['0.1625', '0.2125', '0.1425']
+Message: I want to see it!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.3068718   0.67827863  0.01484957]
+API Probs: ['0.005', '0.015', '0.095']
+Message: sure. np
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97759581e-01   1.63054618e-03   6.09860290e-04]
+API Probs: ['0.245555555556', '0.377777777778', '0.213333333333']
+Message: I'll get there at 3, unless you guys want me to come some time sooner
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99832392e-01   1.55963586e-04   1.16460442e-05]
+API Probs: ['0.177692307692', '0.165384615385', '0.136923076923']
+Message: Not meeting ricky today. Meet tomorrow evening 6pm. Most thingsscheduled.  Will talk to you tonnight.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.67990166  0.30807695  0.01202137]
+API Probs: ['0.04', '0.2925', '0.0575']
+Message: Aahhhh I have t to grocery shooop
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.08483431  0.88278782  0.03237789]
+API Probs: ['0.106', '0.024', '0.024']
+Message: Nvm la next time. Tml do eg in sch, but I not sure when we free.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24740174  0.74173224  0.010866  ]
+API Probs: ['0.14', '0.13', '0.0966666666667']
+Message: Orh. Laogong want
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85949862  0.12683631  0.0136651 ]
+API Probs: ['0.333333333333', '0.193333333333', '0.213333333333']
+Message: Also where's dobby at
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97871697e-01   1.77570351e-03   3.52588570e-04]
+API Probs: ['0.317272727273', '0.383636363636', '0.367272727273']
+Message: Good. do you think you could send me some pix? I would love to see your top and bottom...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.99658895  0.00239979  0.00101127]
+API Probs: ['0.41', '0.40375', '0.3625']
+Message: He needs to stop going to bed and make with the fucking dealing
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44875354  0.53994375  0.01130267]
+API Probs: ['0.196666666667', '0.176666666667', '0.153333333333']
+Message: you free tomorrow ?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99819696e-01   1.52361841e-04   2.79625874e-05]
+API Probs: ['0.291428571429', '0.354285714286', '0.252857142857']
+Message: Yeah =( it's really almost actually updating
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94091749e-01   5.68769965e-03   2.20523216e-04]
+API Probs: ['0.354705882353', '0.571764705882', '0.351176470588']
+Message: A gram usually runs like  <#> , a half eighth is smarter though and gets you almost a whole second gram for  <#>
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88406122  0.11349045  0.00244832]
+API Probs: ['0.15', '0.198888888889', '0.217777777778']
+Message: Dayum. I went  <TIME>  to  <TIME>  the other day though in all fairness haha
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46150556  0.51374871  0.02474572]
+API Probs: ['0.334', '0.348', '0.338']
+Message: I wanted to ask if you know how to print 4 pages on one sheet of paper
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99542058e-01   3.56511388e-04   1.01424601e-04]
+API Probs: ['0.228333333333', '0.2', '0.14']
+Message: What???? Hello wats talks email address?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.16527806  0.82071781  0.01400415]
+API Probs: ['0.185', '0.2125', '0.345']
+Message: Hahahaaa go chalet lehhh.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.68529326  0.31066063  0.00404609]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Why are you up? Lol
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97747368  0.01913342  0.00339289]
+API Probs: ['0.325', '0.471428571429', '0.262142857143']
+Message: Yes we were outside for like 2 hours. And I called my whole family to wake them up cause it started at 1 am
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9532212   0.04388989  0.00288891]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Sup love?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98318672e-01   1.32441835e-03   3.56892997e-04]
+API Probs: ['0.290833333333', '0.368333333333', '0.241666666667']
+Message: Gshfhsg I'm like ten minutes away now... I might only be like fiveminutes late!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96784431  0.02759043  0.00456525]
+API Probs: ['0.292', '0.392', '0.196']
+Message: jay says he'll put in  <#>
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.71039331  0.28152013  0.00808657]
+API Probs: ['0.248', '0.338', '0.294']
+Message: Ok.  I will leave ard  <TIME>
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.75955677  0.18249999  0.05794326]
+API Probs: ['0.196666666667', '0.211666666667', '0.141666666667']
+Message: Lol I don't think that counts as a skill.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.67807966  0.31809938  0.00382093]
+API Probs: ['0.0', '0.0', '0.0']
+Message: ?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.77269381  0.22518604  0.00212017]
+API Probs: ['0.0925', '0.0775', '0.1025']
+Message: Wanna join me? :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.92643356e-01   6.50913734e-03   8.47524963e-04]
+API Probs: ['0.335', '0.405714285714', '0.25']
+Message: I wouldn't if she'd proven herself to be a cool person.. instead shesaid she was going to knock on each door to find me the first nighthere
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99585748e-01   3.64369305e-04   4.98797854e-05]
+API Probs: ['0.36', '0.43', '0.313870967742']
+Message: For you information, IKEA is spelled with all caps. That is not yelling. when you thought i had left you, you were sitting on the bed among the mess when i came in. i said we were going after you got home from class. please don't try and bullshit me. It makes me want to listen to you less.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Noooooooooo
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44609645  0.54765213  0.00625145]
+API Probs: ['0.025', '0.0075', '0.25']
+Message: Yes.  Next stop yishun.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.80357879  0.19354962  0.00287157]
+API Probs: ['0.0', '0.5', '0.0']
+Message: Lol yummmm
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99938428e-01   4.88197147e-05   1.27613039e-05]
+API Probs: ['0.328461538462', '0.467692307692', '0.287692307692']
+Message: If you don't respond imma assume you're still asleep and imma start calling n shit
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.50333345  0.48398694  0.01267963]
+API Probs: ['0.182', '0.17', '0.144']
+Message: Bitch you're a widdu baby syntactician
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99586523e-01   3.73779534e-04   3.96842770e-05]
+API Probs: ['0.333', '0.4', '0.181']
+Message: Ha, wrote that's all really interesting! Pretty funny, little old Akron
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91948277  0.07173181  0.00878545]
+API Probs: ['0.214', '0.246', '0.177']
+Message: Sadly not. :) I'm going to go on a run! It was nice talking to you
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.16579747  0.8211385   0.01306399]
+API Probs: ['0.1775', '0.14', '0.1225']
+Message: Sorry for the late recently was busy
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.86467439  0.13263781  0.00268779]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hey!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98960495e-01   9.94748436e-04   4.47512393e-05]
+API Probs: ['0.4476', '0.4744', '0.2844']
+Message: I'm such a sucker. My main diamond was loose on my wedding ring so I went to get it tightened. But they talked me into replacing it cause it was a lil chipped get the ring engraved and put the old diamond on a pendant.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.63059056  0.36549735  0.00391209]
+API Probs: ['0.235', '0.295', '0.175']
+Message: Did u get one?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40518188  0.50481373  0.09000436]
+API Probs: ['0.0875', '0.0975', '0.12']
+Message: I will only be free tml at 9am.
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2564584   0.02374374  0.71979785]
+API Probs: ['0.236', '0.29', '0.236']
+Message: Hv physics. Will end 7
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96587217e-01   3.01849376e-03   3.94275878e-04]
+API Probs: ['0.186363636364', '0.187272727273', '0.155454545455']
+Message: Em, its olowoyey@ usc.edu have a great time in argentina. Not sad about secretary, everything is a blessing
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99804676e-01   1.61921766e-04   3.33746066e-05]
+API Probs: ['0.179166666667', '0.244166666667', '0.159166666667']
+Message: Yo chad which gymnastics class do you wanna take? The site says Christians class is full..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98966873e-01   8.01413087e-04   2.31733065e-04]
+API Probs: ['0.138333333333', '0.176666666667', '0.168333333333']
+Message: Where can download clear movies. Dvd copies.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99876857e-01   1.10074587e-04   1.30580183e-05]
+API Probs: ['0.337857142857', '0.380714285714', '0.254285714286']
+Message: She.s good. She was wondering if you wont say hi but she.s smiling now. So how are you coping with the long distance
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.0675261   0.12847304  0.80400085]
+API Probs: ['0.3325', '0.413333333333', '0.299166666667']
+Message: m waliking ard now... Do u wan me 2 buy anything go ur house?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24797019  0.74107647  0.01095331]
+API Probs: ['0.405', '0.315', '0.4775']
+Message: Now crossin to yishun statiom
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99115288e-01   8.03671486e-04   8.10651254e-05]
+API Probs: ['0.264444444444', '0.298888888889', '0.196666666667']
+Message: Dang it! I forgot!Is there any way I could get it from you by chance?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.2085195   0.78989881  0.00158166]
+API Probs: ['0.0', '0.0', '0.0']
+Message: <#>  t <#>
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94872272  0.04950651  0.00177075]
+API Probs: ['0.088', '0.068', '0.068']
+Message: Also andros ice etc etc
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97903824e-01   2.00145785e-03   9.46944929e-05]
+API Probs: ['0.2105', '0.26', '0.2175']
+Message: Hey! Sorry, my mom said you texted me before and I meant to text you.I must've missed the last one... I'll take a look and if I can't, I'llask a friend
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.68271673e-01   3.11278179e-02   6.00503525e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: FUCKIN*, ARGH
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99604404e-01   3.87486099e-04   8.12156122e-06]
+API Probs: ['0.446', '0.426', '0.262']
+Message: Holy living christ what is taking you so long
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.34494394  0.63596481  0.01909128]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yeap! Setting up!
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98674154e-01   1.20956311e-03   1.16261828e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Am on a train back from northampton so i'm afraid not! I'm staying skyving off today ho ho! Will be around wednesday though. Do you fancy the comedy club this week by the way?
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Yraaaaaaaaaa
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.85347569e-01   1.40415095e-02   6.10893243e-04]
+API Probs: ['0.3', '0.37', '0.212222222222']
+Message: Probably not, I'm almost out of gas and I get some cash tomorrow
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99836922e-01   1.45621278e-04   1.74640991e-05]
+API Probs: ['0.2175', '0.27375', '0.19']
+Message: Haha whatever's good man! I don't really care
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.09282769  0.90607321  0.00109908]
+API Probs: ['0.214615384615', '0.316923076923', '0.197692307692']
+Message: I see I see. But you gotta pick the nice shows like those I watch :))
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.00601939  0.99178648  0.00219411]
+API Probs: ['0.148', '0.19', '0.116']
+Message: dar dar u coming tite?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.26598564  0.72599608  0.00801828]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hello..
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Whyyyy
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.05810297e-01   9.33730528e-02   8.16636079e-04]
+API Probs: ['0.49', '0.434', '0.372']
+Message: I woke late and was panicking lol
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.10631137  0.87351704  0.02017156]
+API Probs: ['0.146666666667', '0.288333333333', '0.241666666667']
+Message: okay! u playing for rj alumni grit?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.69876486  0.28789589  0.01333923]
+API Probs: ['0.21', '0.31', '0.25']
+Message: I...don't know
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.49534792  0.49602184  0.00863025]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Then how
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.70679879e-01   2.89127901e-02   4.07354295e-04]
+API Probs: ['0.59', '0.463333333333', '0.363333333333']
+Message: No school on weekends
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.92198014  0.07006667  0.00795317]
+API Probs: ['0.148888888889', '0.156666666667', '0.151111111111']
+Message: If you haven't caught up, we should all hang our when you're done andfinish! ^^
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.23308837  0.22891106  0.53800058]
+API Probs: ['0.284333333333', '0.308666666667', '0.242333333333']
+Message: ya. but to do the overall diagram i had to refer to all the servicesu all wrote. so i jud combined them foor my own vonvenience. easierfor myself to refer also. if u made lots of changes u can juz use myindividual diagrams for the services. some i haven add the servicediagram coz tgey feel abit weird
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98021424e-01   1.72278169e-03   2.55814288e-04]
+API Probs: ['0.125', '0.1225', '0.2025']
+Message: Oh. U must have taken your REAL Valentine out shopping first.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98977065e-01   9.28418303e-04   9.45352440e-05]
+API Probs: ['0.358888888889', '0.413333333333', '0.354444444444']
+Message: I got bored off one of my foreplay characters and had <Name>'scharacter kill her .-.
+
+
+Prediction: 2, Real: [ 1.  0.  0.]
+NN Probs: [ 0.15116142  0.02316994  0.82566863]
+API Probs: ['0.210769230769', '0.288461538462', '0.337692307692']
+Message: U know, something like the specialty... for example, this poly is good for what, that poly is good for what... is there such thing?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.11857988  0.85181534  0.02960477]
+API Probs: ['0.225', '0.345', '0.163333333333']
+Message: yes dear.  when reach home i tell u
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.87890559  0.10316604  0.01792837]
+API Probs: ['0.178333333333', '0.408333333333', '0.221666666667']
+Message: Oh for fuck's sake she's in like tallahassee
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.79937971e-01   1.97307188e-02   3.31321266e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Almost
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.37534469  0.62291747  0.0017378 ]
+API Probs: ['0.01', '0.0266666666667', '0.12']
+Message: :-( neh mind
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.96289808  0.03281147  0.00429044]
+API Probs: ['0.358571428571', '0.455714285714', '0.388571428571']
+Message: Hey dad, would you be able to read something for me?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.89460206  0.10260684  0.00279113]
+API Probs: ['0.183333333333', '0.183333333333', '0.33']
+Message: Whoops let me convert it
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97429788e-01   2.26662843e-03   3.03563778e-04]
+API Probs: ['0.22', '0.278888888889', '0.166666666667']
+Message: Hey! Yeah I'm feeling a little better. No throwing up!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.74124730e-01   2.49084793e-02   9.66817257e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ok. Thanks. :-)
+
+
+Prediction: 1, Real: [ 0.  0.  1.]
+NN Probs: [ 0.04429922  0.95347643  0.00222433]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hi its in durban are you still on this number
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.64647073  0.34359822  0.00993104]
+API Probs: ['0.03', '0.07', '0.155']
+Message: Like bleh
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.21510799  0.77747619  0.0074158 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Neh. No want.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97671819  0.0188215   0.0044603 ]
+API Probs: ['0.41', '0.446', '0.342']
+Message: Hi Desmond, thanks for taking the time to meet today.  We would liketo request that you use a different carpenter than the currentgentleman for the kitchen and all other works that need to be redone.Thank you!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99983668e-01   1.44402957e-05   1.91223944e-06]
+API Probs: ['0.325', '0.377222222222', '0.338333333333']
+Message: I dunno where like Jeff it's or anything and he never replied to mytext..usually I'm fine to chill alone but feeling dumb about mywallet's hitting me again =/
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98266399e-01   1.62166718e-03   1.11927046e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Thats gay.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99291897e-01   6.57128636e-04   5.09805977e-05]
+API Probs: ['0.0266666666667', '0.0433333333333', '0.0366666666667']
+Message: Ugh fucking typos
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.97632372  0.00962942  0.01404686]
+API Probs: [0.0, 0.0, 0.0]
+Message: Well done and ! luv ya all
+
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.06170878  0.84591633  0.09237487]
+API Probs: ['0.208888888889', '0.214444444444', '0.261111111111']
+Message: Is Eman hiong la. Hahas temporary good table mates!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.87164104  0.12097004  0.00738894]
+API Probs: ['0.15', '0.2075', '0.0825']
+Message: What do you mean non-rounding harmony?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.88572145  0.03274066  0.08153789]
+API Probs: ['0.24875', '0.285', '0.31375']
+Message: Still in the area of the restaurant. Ill try to come back soon
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85248429  0.14178984  0.00572587]
+API Probs: ['0.1825', '0.25', '0.1425']
+Message: U think I'm fat?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.54977447  0.44617215  0.0040534 ]
+API Probs: ['0.41', '0.5', '0.31']
+Message: Lol shut up
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24514043  0.67145419  0.08340538]
+API Probs: ['0.195', '0.241666666667', '0.226666666667']
+Message: If you have nothing to do when you reach I can go down!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99993205e-01   6.75248020e-06   6.65091804e-08]
+API Probs: ['0.246', '0.26', '0.247']
+Message: Actually I decided I was too hungry so I haven't left yet :V
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97918189e-01   1.96842523e-03   1.13410271e-04]
+API Probs: ['0.282105263158', '0.335263157895', '0.334210526316']
+Message: I got lousy sleep. I kept waking up every 2 hours to see if my cat wanted to come in. I worry about him when its cold :(
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.1527375   0.80201995  0.04524253]
+API Probs: ['0.15', '0.1075', '0.12']
+Message: Ya they all 3 have exams on Mon
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.85236341  0.12662981  0.02100676]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Tonight? Yeah, I'd be down for that
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98283857  0.01396821  0.00319324]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Sounds great! I won't forget. See you then!
+
+
+Prediction: 1, Real: [ 0.  0.  1.]
+NN Probs: [ 0.35328397  0.42070043  0.2260156 ]
+API Probs: [0.0, 0.0, 0.0]
+Message:  and  picking them up from various points
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95745033  0.04045554  0.00209415]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Chillin, sup?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.44671932  0.5433839   0.00989677]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Very fu?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93415105  0.06259215  0.00325677]
+API Probs: ['0.042', '0.034', '0.028']
+Message: Hey mom! I'm leaving at  <TIME>
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.47837266  0.49918908  0.02243826]
+API Probs: ['0.465', '0.885', '0.645']
+Message: go for tech
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40562052  0.58601123  0.00836827]
+API Probs: ['0.115', '0.1', '0.14']
+Message: Yeiyei bus just came. :-P
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.19033735  0.80156338  0.00809928]
+API Probs: ['0.33', '0.47', '0.46']
+Message: dear
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.18049955  0.78564191  0.03385857]
+API Probs: ['0.3125', '0.34', '0.205']
+Message: Dont count in the shirt for the budget.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.95608032e-01   4.05762764e-03   3.34354030e-04]
+API Probs: ['0.48', '0.519', '0.341']
+Message: Its worse if if uses half way then stops. Its better for him to complete it.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.46036634  0.53280324  0.00683045]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Goodmorninggg
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.73712611  0.25802952  0.00484436]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Cdoin
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.86502194  0.12480582  0.01017227]
+API Probs: ['0.268', '0.379', '0.298']
+Message: Well imma definitely need to restock before thanksgiving, I'll let you know when I'm out
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96880472e-01   2.84115900e-03   2.78383144e-04]
+API Probs: ['0.121111111111', '0.173333333333', '0.154444444444']
+Message: I cant wait to see you! How were the photos were useful? :)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.93811011  0.05791406  0.00397583]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Haha cool! This is Brandon Becker
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.06053238  0.92846245  0.0110052 ]
+API Probs: ['0.2', '0.034', '0.09']
+Message: <#> pm at cally house! :-D
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40882838  0.58372492  0.0074467 ]
+API Probs: ['0.162', '0.19', '0.13']
+Message: Oh so do I still nid to change?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.73671675e-01   2.59825345e-02   3.45798180e-04]
+API Probs: ['0.03', '0.04', '0.13']
+Message: South Carolina haha
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.84495294  0.14658445  0.00846259]
+API Probs: ['0.32125', '0.46375', '0.2625']
+Message: Yes I know the cheesy songs from frosty the snowman :)
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.07769626  0.90497279  0.01733092]
+API Probs: ['0.0', '0.0', '0.0']
+Message: ._. He's at chalet!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98718679e-01   1.19416288e-03   8.71652883e-05]
+API Probs: ['0.248421052632', '0.295263157895', '0.277894736842']
+Message: Hi Sue, thanks for the email.  The rent due for extension to the  <#>th (7 days) is  <#> *7/ <#> =  <DECIMAL> .  I can pay this this week.Desmond still has our security deposit, so the remaining balance canbe refunded to us upon move out (ie.,  <#> . <#> ) or should we make aseparate payment?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99328017e-01   6.34595403e-04   3.73927942e-05]
+API Probs: ['0.332857142857', '0.414285714286', '0.297142857143']
+Message: Haha I think you've got the wrong guy
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99994040e-01   5.17701437e-06   7.62240347e-07]
+API Probs: ['0.253333333333', '0.320666666667', '0.282666666667']
+Message: I'm gonna be home soon and i don't want to talk about this stuff anymore tonight, k? I've cried enough today.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.91836816  0.0800806   0.00155127]
+API Probs: ['0.1325', '0.095', '0.08']
+Message: On break. Eating chips
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98824018  0.00828395  0.00347585]
+API Probs: ['0.23', '0.241111111111', '0.197777777778']
+Message: Or maybe my fat fingers just press all these buttons and it doesn't know what to do.
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.42138627  0.55417192  0.0244418 ]
+API Probs: ['0.01', '0.0125', '0.04']
+Message: I shared the doc with you yesterday?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.67964774  0.31358647  0.00676577]
+API Probs: ['0.0933333333333', '0.1', '0.136666666667']
+Message: Sorry love D=
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.33030695  0.61351103  0.05618202]
+API Probs: ['0.323333333333', '0.366666666667', '0.386666666667']
+Message: m in e canteen already..
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99993563e-01   6.20437368e-06   2.09053624e-07]
+API Probs: ['0.522222222222', '0.687777777778', '0.371111111111']
+Message: Well obviously not because all the people in my cool college life went home ;_;
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98637855e-01   1.11771270e-03   2.44441559e-04]
+API Probs: ['0.216666666667', '0.221666666667', '0.158333333333']
+Message: Hi Ricky, it's been two weeks since I started asking about the PUBproblem.  Any progress?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02267032  0.96692234  0.01040737]
+API Probs: ['0.22125', '0.2775', '0.19875']
+Message: He went to do project. I 2moro  <#>  to 1 free
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99538124e-01   4.20330674e-04   4.15674003e-05]
+API Probs: ['0.266', '0.384', '0.271']
+Message: Somebody set up a website where you can play hold em using eve online spacebucks
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99747574e-01   1.97690795e-04   5.47436175e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hi. || Do u want | to join me with sts later? || Meeting them at five. || Call u after class.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99073625e-01   7.87101977e-04   1.39243610e-04]
+API Probs: ['0.205', '0.2575', '0.1675']
+Message: Nobody names their penis a girls name this story doesn't add up at all
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.84318459  0.15462551  0.0021899 ]
+API Probs: ['0.0', '0.0', '0.0']
+Message: And?
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99658704e-01   3.22875683e-04   1.84027358e-05]
+API Probs: ['0.0', '0.0', '0.0']
+Message: When is your class? =o
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.96056080e-01   3.67265358e-03   2.71280500e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Ok. Will do. Thanks :-)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.69955188  0.25780776  0.04264035]
+API Probs: ['0.333333333333', '0.46', '0.316666666667']
+Message: Mom wants to know where you at
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9648115   0.03385961  0.00132889]
+API Probs: ['0.254', '0.32', '0.202']
+Message: So how many days since then?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.00429675  0.99283153  0.00287174]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Morn/afternoon? Go somewhere to san san xin?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.4522067   0.54355234  0.00424099]
+API Probs: ['0.0', '0.0', '0.0']
+Message: "
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97478008e-01   2.31704465e-03   2.04926604e-04]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Pls continue.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.81177479  0.16557811  0.02264713]
+API Probs: ['0.256666666667', '0.276666666667', '0.463333333333']
+Message: Or golden gate
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98979628e-01   7.52484251e-04   2.67858850e-04]
+API Probs: ['0.207142857143', '0.234285714286', '0.224285714286']
+Message: Your right! I'll make the appointment right now.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94558746  0.05072902  0.00368355]
+API Probs: ['0.06', '0.0875', '0.0775']
+Message: Now THIS girl is performing!
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.95386636  0.0194082   0.02672541]
+API Probs: ['0.39375', '0.5025', '0.41125']
+Message: We'd also have to be alone in LA at night untik like 5 am
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.17012724  0.82317203  0.00670073]
+API Probs: ['0.36', '0.4075', '0.2175']
+Message: heee thanjs my wonderful dear
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.86467493  0.12876698  0.00655806]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Hope you are not scared!
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.39436349  0.59370595  0.01193052]
+API Probs: ['0.155', '0.0525', '0.0875']
+Message: So can collect ur laptop?
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.24688442  0.74186772  0.01124786]
+API Probs: ['0.226', '0.248', '0.182']
+Message: Nope sorry I'm going to be late!!><
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94435847e-01   5.22426050e-03   3.39893391e-04]
+API Probs: ['0.2625', '0.1075', '0.3075']
+Message: On the road so cant txt
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.40386713  0.59040499  0.00572788]
+API Probs: ['0.126666666667', '0.205', '0.14']
+Message: Hmmm if I can finish my assignment jiu okay.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.97844738  0.01717474  0.00437787]
+API Probs: ['0.294444444444', '0.342222222222', '0.26']
+Message: Hi. I'm always online on yahoo and would like to chat with you someday
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.99806583e-01   1.63676479e-04   2.97395545e-05]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hi there. We have now moved in2 our pub . Would be great 2 c u if u cud come up.
+
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [ 0.9935587   0.00530989  0.00113141]
+API Probs: [0.0, 0.0, 0.0]
+Message: Don't worry, * is easy once have ingredients!
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.98631388  0.01143612  0.00225   ]
+API Probs: ['0.146', '0.2', '0.124']
+Message: Thank you. I like you as well...
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.45774913e-01   5.33487536e-02   8.76313949e-04]
+API Probs: ['0.1625', '0.1925', '0.1075']
+Message: Ok, coming up. :-)
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.99648452e-01   3.22345644e-04   2.91889410e-05]
+API Probs: ['0.22', '0.41875', '0.2']
+Message: Alex knows a guy who sells mids but he's down in south tampa and I don't think I could set it up before like 8
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.64797091  0.34840718  0.0036219 ]
+API Probs: ['0.348', '0.36', '0.366']
+Message: i want to grasp your pretty booty :)
+
+
+Prediction: 0, Real: [ 0.  0.  1.]
+NN Probs: [  9.98275042e-01   1.58261019e-03   1.42354183e-04]
+API Probs: [0.0, 0.0, 0.0]
+Message: Hiya, sorry didn't hav signal. I haven't seen or heard from and neither has, which is unusual in itself! I'll put on the case and get him to sort it out! Hugs and snogs.
+
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.94952333  0.03405889  0.0164178 ]
+API Probs: ['0.385', '0.371', '0.274']
+Message: Ok i will tell her to stay out. Yeah its been tough but we are optimistic things will improve this month.
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [ 0.9943254   0.00374172  0.00193289]
+API Probs: ['0.445', '0.52', '0.33']
+Message: Id have to check but there's only like 1 bowls worth left
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.98512387e-01   1.24670740e-03   2.40885420e-04]
+API Probs: ['0.605', '0.638333333333', '0.403333333333']
+Message: Sent you an awful little recording of me playing guitar
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.97897029e-01   1.92976301e-03   1.73237306e-04]
+API Probs: ['0.200434782609', '0.20652173913', '0.164782608696']
+Message: hi kissy, at bj airport now. Waiting for the gate to open at  <#> .Missing you lots. Hope today went well. Will be back soon. Please restwell. Hugs, huggy :-)
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.05258558  0.94368619  0.00372825]
+API Probs: ['0.0', '0.0', '0.0']
+Message: Oki
+
+
+Prediction: 0, Real: [ 0.  1.  0.]
+NN Probs: [  9.94867325e-01   4.71074134e-03   4.21949255e-04]
+API Probs: ['0.24', '0.266666666667', '0.343333333333']
+Message: Ohh time difference
+
+
+Prediction: 1, Real: [ 1.  0.  0.]
+NN Probs: [ 0.02601915  0.9613294   0.01265144]
+API Probs: ['0.268571428571', '0.348571428571', '0.35']
+Message: Hey do you all wan meet Mr lim for tip 2moro?
+
+
