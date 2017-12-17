@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#TODO: I'm using Python 3.5 so some of the things might be different :(
 
 import numpy as np
 from resources.importData import importAndProcess
@@ -19,11 +18,19 @@ def testNB(vectorizer, training_data, training_labels, testing_data, testing_lab
     # Set up the Naive Bayes classifier
     mnb = MultinomialNB(alpha=1.3)
     mnb.fit(train_vectors, training_labels)
-    prediction = mnb.predict(test_vectors)
+
+    predictionTrain = mnb.predict(train_vectors)
+    predictionTest = mnb.predict(test_vectors)
 
     # How good was it?
-    accuracy = accuracy_score(testing_labels, prediction)
+    accuracy = accuracy_score(training_labels, predictionTrain)
+    print("\n-\tNaive Bayes Classifier\t-")
+    print("Train set:")
+    print("Accuracy: {}".format(accuracy))
+
+    accuracy = accuracy_score(testing_labels, predictionTest)
     print ("\n-\tNaive Bayes Classifier\t-")
+    print ("Test set:")
     print ("Accuracy: {}".format(accuracy))
 
 def guessSG(testing_labels):
@@ -33,7 +40,7 @@ def guessSG(testing_labels):
         prediction.append("sg")
         # How good was it?
     accuracy = accuracy_score(testing_labels, prediction)
-    print("\n-\tAlways Guess Singapore\t-")
+    print("-\tAlways Guess Singapore\t-")
     print("Accuracy: {}".format(accuracy))
 
 if __name__ == '__main__':
@@ -51,4 +58,8 @@ if __name__ == '__main__':
     # Test the testing set
     testNB(vectorizer, messages_train, loc_train, messages_test, loc_test)
     #Always guessing Singapore baseline
+    print("\nTrain set accuracy:")
+    guessSG(loc_train)
+    print("Test set accuracy:")
     guessSG(loc_test)
+
