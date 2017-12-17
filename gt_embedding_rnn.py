@@ -5,16 +5,18 @@ from resources.importData import importAndProcess
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
+from keras.preprocessing import sequence
 from keras.preprocessing.text import text_to_word_sequence
 from keras.preprocessing.text import Tokenizer
 from keras.utils import np_utils
 
+from keras.models import load_model
 from keras.models import Sequential
+
 from keras.layers import Dense
 from keras.layers import LSTM
 from keras.layers import Dropout
 from keras.layers.embeddings import Embedding
-from keras.preprocessing import sequence
 
 def preprocess(messages):
     # get single words out of sentences
@@ -83,11 +85,15 @@ if __name__ == '__main__':
     for i in range(0, len(toker.word_counts)+1):
         embedding_matrix.append([0.0, 0.0, 0.0])
 
-    vocabulary = toker.word_index.keys()
-    for word in vocabulary:
-        if word in vocab_weights:
-            index = toker.word_index[word]
-            embedding_matrix[index] = vocab_weights[word]
+    # Also save down the word-to-index mapping
+    with open('resources/word_indicies.txt', 'w') as fp:
+        vocabulary = toker.word_index.keys()
+        for word in vocabulary:
+            if word in vocab_weights:
+                index = toker.word_index[word]
+                fp.write('{},{}'.format(word, index))
+                fp.write('\n')
+                embedding_matrix[index] = vocab_weights[word]
 
     embedding_matrix = np.array(embedding_matrix)
 
@@ -105,14 +111,18 @@ if __name__ == '__main__':
     y_dev = np_utils.to_categorical(y_dev, num_classes)
     y_test = np_utils.to_categorical(y_test, num_classes)
 
+    embedding_vector_length = 3
+    model = Sequential()
     embedding_layer = Embedding(len(toker.word_counts)+1, embedding_vector_length, weights=[embedding_matrix], input_length=max_length, trainable=True)
     model.add(embedding_layer)
     model.add(LSTM(100))
-    model.add(Dropout(0.2)) # Dropout layer
+    model.add(Dropout(0.65)) # Dropout layer
     model.add(Dense(3, activation='softmax'))
     model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
     print model.summary()
-    model.fit(X_train, y_train, nb_epoch=10, batch_size=64,verbose=1, validation_data=(X_dev,y_dev), shuffle =True)
+
+    model.fit(X_train, y_train, nb_epoch=10, batch_size=64,verbose=1, validation_data=(X_dev,y_dev), shuffle =True, callbacks=[tensorboard])
     # Final evaluation of the model
     scores = model.evaluate(X_test, y_test, verbose=1)
     print "Accuracy: %.2f%%" % (scores[1]*100)
+    model.save('gt_embedding_model_with_dropout.h5')  # creates a HDF5 file
