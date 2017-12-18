@@ -125,4 +125,4 @@ if __name__ == '__main__':
     # Final evaluation of the model
     scores = model.evaluate(X_test, y_test, verbose=1)
     print "Accuracy: %.2f%%" % (scores[1]*100)
-    model.save('gt_embedding_model_with_dropout.h5')  # creates a HDF5 file
+    model.save('models/gt_embedding_model.h5')  # creates a HDF5 file

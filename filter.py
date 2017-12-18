@@ -1,14 +1,14 @@
 """
 This program is executed after the RNN is trained. It employs a filter, to decide if the class predicted by the RNN should
 be used, or if the google API information should be used. Google API information is used in cases in which the predictions
-of the RNN are relativly uncertain.
+of the RNN are relatively uncertain.
 """
 from keras.models import load_model
 import numpy as np
 import keras.utils as np_utils
 from keras.preprocessing import sequence
 from resources.importData import importAndProcess
-from NoGT3 import createKerasTokens
+from non_gt_rnn_3 import createKerasTokens
 from sklearn.metrics import accuracy_score
 
 #load in the data and preprocess
@@ -30,7 +30,7 @@ X_dev = sequence.pad_sequences(X_dev, maxlen=max_length)
 y_dev = np_utils.to_categorical(y_dev, num_classes)
 
 
-model = load_model('model_32.h5')
+model = load_model('models/non_gt_rnn_32_model.h5')
 
 predictions = model.predict(X_dev)
 pred_class = model.predict_classes(X_dev)
