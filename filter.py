@@ -125,7 +125,7 @@ X_test = sequence.pad_sequences(X_test, maxlen=max_length)
 y_test = np_utils.to_categorical(y_test, num_classes)
 
 
-model = load_model('model_32.h5')
+model = load_model('models/non_gt_rnn_32_model.h5')
 
 predictions = model.predict(X_test)
 pred_class = model.predict_classes(X_test)
@@ -199,9 +199,3 @@ for fil in filterSettings:
     print("Number of cases with change: {}".format(counter_api))
     print("Accuracy: {}".format(accuracy_score(y_int, pred_class_changed)))
     print("")
-
-
-
-
-
-
